@@ -1,0 +1,1446 @@
+﻿Log file open, 11/10/20 12:00:34
+LogInit: Display: Running engine for game: project
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 7.652926
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-13942748
+LogInit: Engine Version: 4.25.3-13942748+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-4790 CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 1050 Ti
+LogInit: Compiled (64-bit): Jul 25 2020 02:07:48
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/lucca_000/Documents/Unreal Projects/Bambu/project/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.11.10-15.00.50:226][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.11.10-15.00.50:226][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.11.10-15.00.50:227][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/lucca_000/Documents/Unreal Projects/Bambu/project/Saved/Config/Windows/Engine.ini]
+[2020.11.10-15.00.50:227][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.11.10-15.00.50:227][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/lucca_000/Documents/Unreal Projects/Bambu/project/Saved/Config/Windows/Engine.ini]
+[2020.11.10-15.00.50:227][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/lucca_000/Documents/Unreal Projects/Bambu/project/Saved/Config/Windows/Engine.ini]
+[2020.11.10-15.00.50:227][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.11.10-15.00.50:227][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.11.10-15.00.50:227][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.11.10-15.00.50:227][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.11.10-15.00.50:227][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.11.10-15.00.50:227][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.11.10-15.00.50:227][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.11.10-15.00.50:227][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.11.10-15.00.50:227][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.11.10-15.00.50:227][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.11.10-15.00.50:227][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.11.10-15.00.50:227][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.11.10-15.00.50:227][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.11.10-15.00.50:227][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.11.10-15.00.50:227][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/lucca_000/Documents/Unreal Projects/Bambu/project/Saved/Config/Windows/Engine.ini]
+[2020.11.10-15.00.50:227][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.11.10-15.00.50:227][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.11.10-15.00.50:227][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.11.10-15.00.50:227][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.11.10-15.00.50:227][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.11.10-15.00.50:227][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.11.10-15.00.50:227][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.11.10-15.00.50:227][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.11.10-15.00.50:227][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.11.10-15.00.50:227][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.11.10-15.00.50:227][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.11.10-15.00.50:227][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.11.10-15.00.50:227][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.11.10-15.00.50:227][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/lucca_000/Documents/Unreal Projects/Bambu/project/Saved/Config/Windows/Engine.ini]
+[2020.11.10-15.00.50:227][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/lucca_000/Documents/Unreal Projects/Bambu/project/Saved/Config/Windows/Engine.ini]
+[2020.11.10-15.00.50:441][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/lucca_000/Documents/Unreal Projects/Bambu/project/Saved/Config/Windows/Scalability.ini]
+[2020.11.10-15.00.50:441][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.11.10-15.00.50:441][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.11.10-15.00.50:441][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/lucca_000/Documents/Unreal Projects/Bambu/project/Saved/Config/Windows/Scalability.ini]
+[2020.11.10-15.00.50:441][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.11.10-15.00.50:441][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/lucca_000/Documents/Unreal Projects/Bambu/project/Saved/Config/Windows/Scalability.ini]
+[2020.11.10-15.00.50:441][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.11.10-15.00.50:441][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.11.10-15.00.50:441][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.11.10-15.00.50:441][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.11.10-15.00.50:441][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.11.10-15.00.50:441][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.11.10-15.00.50:441][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.11.10-15.00.50:441][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.11.10-15.00.50:441][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.11.10-15.00.50:441][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.11.10-15.00.50:441][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.11.10-15.00.50:441][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.11.10-15.00.50:441][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.11.10-15.00.50:441][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.11.10-15.00.50:441][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.11.10-15.00.50:441][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.11.10-15.00.50:441][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.11.10-15.00.50:441][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.11.10-15.00.50:441][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/lucca_000/Documents/Unreal Projects/Bambu/project/Saved/Config/Windows/Scalability.ini]
+[2020.11.10-15.00.50:441][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.11.10-15.00.50:441][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.11.10-15.00.50:441][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.11.10-15.00.50:441][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.11.10-15.00.50:441][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.11.10-15.00.50:441][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.11.10-15.00.50:441][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.11.10-15.00.50:441][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.11.10-15.00.50:441][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.11.10-15.00.50:441][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.11.10-15.00.50:441][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.11.10-15.00.50:441][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.11.10-15.00.50:441][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.11.10-15.00.50:441][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.11.10-15.00.50:441][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.11.10-15.00.50:441][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.11.10-15.00.50:441][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.11.10-15.00.50:441][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.11.10-15.00.50:441][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.11.10-15.00.50:441][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.11.10-15.00.50:441][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.11.10-15.00.50:441][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.11.10-15.00.50:441][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.11.10-15.00.50:441][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.11.10-15.00.50:441][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.11.10-15.00.50:441][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.11.10-15.00.50:441][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.11.10-15.00.50:441][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.11.10-15.00.50:441][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.11.10-15.00.50:441][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.11.10-15.00.50:441][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/lucca_000/Documents/Unreal Projects/Bambu/project/Saved/Config/Windows/Scalability.ini]
+[2020.11.10-15.00.50:441][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.11.10-15.00.50:441][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.11.10-15.00.50:441][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.11.10-15.00.50:441][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.11.10-15.00.50:442][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.11.10-15.00.50:442][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.11.10-15.00.50:442][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.11.10-15.00.50:442][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.11.10-15.00.50:442][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.11.10-15.00.50:442][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/lucca_000/Documents/Unreal Projects/Bambu/project/Saved/Config/Windows/Scalability.ini]
+[2020.11.10-15.00.50:442][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.11.10-15.00.50:442][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.11.10-15.00.50:442][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.11.10-15.00.50:442][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.11.10-15.00.50:442][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.11.10-15.00.50:442][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.11.10-15.00.50:442][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.11.10-15.00.50:442][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.11.10-15.00.50:442][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.11.10-15.00.50:442][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.11.10-15.00.50:442][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.11.10-15.00.50:442][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.11.10-15.00.50:442][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.11.10-15.00.50:442][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.11.10-15.00.50:442][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.11.10-15.00.50:442][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.11.10-15.00.50:442][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.11.10-15.00.50:442][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.11.10-15.00.50:442][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.11.10-15.00.50:442][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.11.10-15.00.50:442][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.11.10-15.00.50:442][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.11.10-15.00.50:442][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.11.10-15.00.50:442][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.11.10-15.00.50:442][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.11.10-15.00.50:442][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.11.10-15.00.50:442][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/lucca_000/Documents/Unreal Projects/Bambu/project/Saved/Config/Windows/Scalability.ini]
+[2020.11.10-15.00.50:442][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.11.10-15.00.50:442][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.11.10-15.00.50:442][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/lucca_000/Documents/Unreal Projects/Bambu/project/Saved/Config/Windows/Scalability.ini]
+[2020.11.10-15.00.50:442][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.11.10-15.00.50:442][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.11.10-15.00.50:442][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.11.10-15.00.50:442][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.11.10-15.00.50:442][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.11.10-15.00.50:442][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.11.10-15.00.50:442][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.11.10-15.00.50:458][  0]LogInit: Selected Device Profile: [Windows]
+[2020.11.10-15.00.50:458][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.11.10-15.00.50:466][  0]LogHAL: Display: Platform has ~ 8 GB [8490868736 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.11.10-15.00.50:467][  0]LogInit: Going up to parent DeviceProfile []
+[2020.11.10-15.00.50:470][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/lucca_000/Documents/Unreal Projects/Bambu/project/Saved/Config/Windows/Scalability.ini]
+[2020.11.10-15.00.50:470][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.11.10-15.00.50:470][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.11.10-15.00.50:470][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/lucca_000/Documents/Unreal Projects/Bambu/project/Saved/Config/Windows/Scalability.ini]
+[2020.11.10-15.00.50:470][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.11.10-15.00.50:470][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/lucca_000/Documents/Unreal Projects/Bambu/project/Saved/Config/Windows/Scalability.ini]
+[2020.11.10-15.00.50:470][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.11.10-15.00.50:470][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.11.10-15.00.50:470][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.11.10-15.00.50:470][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.11.10-15.00.50:470][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.11.10-15.00.50:470][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.11.10-15.00.50:470][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.11.10-15.00.50:470][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.11.10-15.00.50:470][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.11.10-15.00.50:470][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.11.10-15.00.50:470][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.11.10-15.00.50:470][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.11.10-15.00.50:470][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.11.10-15.00.50:470][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.11.10-15.00.50:470][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.11.10-15.00.50:470][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.11.10-15.00.50:470][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.11.10-15.00.50:470][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.11.10-15.00.50:470][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/lucca_000/Documents/Unreal Projects/Bambu/project/Saved/Config/Windows/Scalability.ini]
+[2020.11.10-15.00.50:470][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.11.10-15.00.50:470][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.11.10-15.00.50:470][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.11.10-15.00.50:470][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.11.10-15.00.50:470][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.11.10-15.00.50:470][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.11.10-15.00.50:470][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.11.10-15.00.50:470][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.11.10-15.00.50:470][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.11.10-15.00.50:470][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.11.10-15.00.50:470][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.11.10-15.00.50:470][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.11.10-15.00.50:470][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.11.10-15.00.50:470][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.11.10-15.00.50:470][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.11.10-15.00.50:470][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.11.10-15.00.50:470][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.11.10-15.00.50:470][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.11.10-15.00.50:470][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.11.10-15.00.50:470][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.11.10-15.00.50:470][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.11.10-15.00.50:470][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.11.10-15.00.50:470][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.11.10-15.00.50:470][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.11.10-15.00.50:470][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.11.10-15.00.50:470][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.11.10-15.00.50:470][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.11.10-15.00.50:470][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.11.10-15.00.50:470][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.11.10-15.00.50:470][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.11.10-15.00.50:470][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/lucca_000/Documents/Unreal Projects/Bambu/project/Saved/Config/Windows/Scalability.ini]
+[2020.11.10-15.00.50:470][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.11.10-15.00.50:471][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.11.10-15.00.50:471][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.11.10-15.00.50:471][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.11.10-15.00.50:471][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.11.10-15.00.50:471][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.11.10-15.00.50:471][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.11.10-15.00.50:471][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.11.10-15.00.50:471][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.11.10-15.00.50:471][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/lucca_000/Documents/Unreal Projects/Bambu/project/Saved/Config/Windows/Scalability.ini]
+[2020.11.10-15.00.50:471][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.11.10-15.00.50:471][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.11.10-15.00.50:471][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.11.10-15.00.50:471][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.11.10-15.00.50:471][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.11.10-15.00.50:471][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.11.10-15.00.50:471][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.11.10-15.00.50:471][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.11.10-15.00.50:471][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.11.10-15.00.50:471][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.11.10-15.00.50:471][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.11.10-15.00.50:471][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.11.10-15.00.50:471][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.11.10-15.00.50:471][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.11.10-15.00.50:471][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.11.10-15.00.50:471][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.11.10-15.00.50:471][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.11.10-15.00.50:471][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.11.10-15.00.50:471][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.11.10-15.00.50:471][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.11.10-15.00.50:471][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.11.10-15.00.50:471][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.11.10-15.00.50:471][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.11.10-15.00.50:471][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.11.10-15.00.50:471][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.11.10-15.00.50:471][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.11.10-15.00.50:471][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/lucca_000/Documents/Unreal Projects/Bambu/project/Saved/Config/Windows/Scalability.ini]
+[2020.11.10-15.00.50:471][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.11.10-15.00.50:471][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.11.10-15.00.50:471][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/lucca_000/Documents/Unreal Projects/Bambu/project/Saved/Config/Windows/Scalability.ini]
+[2020.11.10-15.00.50:471][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.11.10-15.00.50:471][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.11.10-15.00.50:471][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.11.10-15.00.50:471][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.11.10-15.00.50:471][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.11.10-15.00.50:471][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.11.10-15.00.50:471][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.11.10-15.00.50:471][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.11.10-15.00.50:480][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.11.10-15.00.50:480][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.11.10-15.00.50:480][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.11.10-15.00.50:480][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/lucca_000/Documents/Unreal Projects/Bambu/project/Saved/Config/Windows/Engine.ini]
+[2020.11.10-15.00.50:507][  0]LogInit: Computer: LUCCA-PC
+[2020.11.10-15.00.50:507][  0]LogInit: User: lucca000
+[2020.11.10-15.00.50:522][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.11.10-15.00.50:522][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.11.10-15.00.50:522][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.11.10-15.00.50:569][  0]LogMemory: Platform Memory Stats for Windows
+[2020.11.10-15.00.50:569][  0]LogMemory: Process Physical Memory: 117.89 MB used, 117.89 MB peak
+[2020.11.10-15.00.50:569][  0]LogMemory: Process Virtual Memory: 96.11 MB used, 96.11 MB peak
+[2020.11.10-15.00.50:569][  0]LogMemory: Physical Memory: 6814.76 MB used,  1282.76 MB free, 8097.52 MB total
+[2020.11.10-15.00.50:569][  0]LogMemory: Virtual Memory: 5143.69 MB used,  134212584.00 MB free, 134217728.00 MB total
+[2020.11.10-15.00.50:610][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.11.10-15.00.51:502][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.11.10-15.00.51:573][  0]LogInit: Overriding language with editor language configuration option (en).
+[2020.11.10-15.00.51:573][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2020.11.10-15.00.55:583][  0]LogInit: Setting process to per monitor DPI aware
+[2020.11.10-15.00.57:116][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.11.10-15.00.57:116][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.11.10-15.01.00:586][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.11.10-15.01.00:586][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.11.10-15.01.00:586][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.11.10-15.01.00:586][  0]LogD3D11RHI: D3D11 adapters:
+[2020.11.10-15.01.01:319][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2020.11.10-15.01.01:319][  0]LogD3D11RHI:       4018/0/4048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.11.10-15.01.01:365][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.11.10-15.01.01:365][  0]LogD3D11RHI:       0/0/4048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.11.10-15.01.01:365][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.11.10-15.01.01:617][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.11.10-15.01.01:617][  0]LogD3D11RHI:     GPU DeviceId: 0x1c82 (for the marketing name, search the web for "GPU Device Id")
+[2020.11.10-15.01.01:625][  0]LogWindows: EnumDisplayDevices:
+[2020.11.10-15.01.01:625][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:1)
+[2020.11.10-15.01.01:626][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050 Ti' (P:1 D:1)
+[2020.11.10-15.01.01:626][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2020.11.10-15.01.01:627][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2020.11.10-15.01.01:627][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.11.10-15.01.01:627][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2020.11.10-15.01.01:628][  0]LogD3D11RHI:   Driver Version: 452.06 (internal:27.21.14.5206, unified:452.06)
+[2020.11.10-15.01.01:628][  0]LogD3D11RHI:      Driver Date: 8-12-2020
+[2020.11.10-15.01.01:628][  0]LogRHI: Texture pool is 2812 MB (70% of 4018 MB)
+[2020.11.10-15.01.01:755][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.11.10-15.01.01:822][  0]LogD3D11RHI: [Aftermath] Enabled and primed
+[2020.11.10-15.01.01:828][  0]LogD3D11RHI: Async texture creation enabled
+[2020.11.10-15.01.01:828][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.11.10-15.01.02:592][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.11.10-15.01.06:532][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.11.10-15.01.06:574][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.11.10-15.01.06:574][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.11.10-15.01.06:574][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.11.10-15.01.06:574][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.11.10-15.01.06:574][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.11.10-15.01.06:574][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.11.10-15.01.06:574][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.11.10-15.01.06:574][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.11.10-15.01.06:574][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.11.10-15.01.06:574][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.11.10-15.01.06:672][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.11.10-15.01.06:672][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.11.10-15.01.06:710][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.11.10-15.01.06:739][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.11.10-15.01.06:843][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.11.10-15.01.06:863][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.11.10-15.01.06:886][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.11.10-15.01.06:908][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.11.10-15.01.06:947][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.11.10-15.01.07:003][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.11.10-15.01.07:003][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.11.10-15.01.07:027][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.11.10-15.01.07:027][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.11.10-15.01.07:076][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.11.10-15.01.07:100][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.11.10-15.01.07:121][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.11.10-15.01.07:139][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.11.10-15.01.07:139][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.11.10-15.01.07:327][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.11.10-15.01.08:047][  0]LogShaderCompilers: Guid format shader working directory is -24 characters bigger than the processId version (../../../../../../Users/lucca_000/Documents/Unreal Projects/Bambu/project/Intermediate/Shaders/WorkingDirectory/15832/).
+[2020.11.10-15.01.08:048][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/lucca_000/AppData/Local/Temp/UnrealShaderWorkingDir/013753A441525460A7DA809C6D6601B3/'.
+[2020.11.10-15.01.08:101][  0]LogXGEController: Cleaning working directory: C:/Users/lucca_000/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.11.10-15.01.08:102][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.11.10-15.01.08:102][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.11.10-15.01.08:102][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.11.10-15.01.13:654][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.11.10-15.01.14:223][  0]LogDerivedDataCache: Loaded boot cache 0.56s 75MB C:/Users/lucca_000/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.11.10-15.01.14:223][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/lucca_000/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.11.10-15.01.14:223][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/lucca_000/Documents/Unreal Projects/Bambu/project/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.11.10-15.01.14:223][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.11.10-15.01.14:223][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/lucca_000/Documents/Unreal Projects/Bambu/project/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.11.10-15.01.14:223][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.11.10-15.01.14:298][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.11.10-15.01.14:298][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.11.10-15.01.14:298][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.11.10-15.01.14:319][  0]LogDerivedDataCache: Using Local data cache path C:/Users/lucca_000/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.11.10-15.01.14:319][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.11.10-15.01.14:319][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.11.10-15.01.14:594][  0]LogSlate: Using FreeType 2.10.0
+[2020.11.10-15.01.14:726][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.11.10-15.01.15:865][  0]LogAssetRegistry: FAssetRegistry took 0.0060 seconds to start up
+[2020.11.10-15.01.26:624][  0]LogInit: Selected Device Profile: [Windows]
+[2020.11.10-15.01.31:401][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.11.10-15.01.31:401][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.11.10-15.01.31:401][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.11.10-15.01.31:401][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.11.10-15.01.31:430][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.11.10-15.01.32:517][  0]LogNetVersion: project 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 289691133)
+[2020.11.10-15.01.51:979][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (00000241E2F92980), frame # 0
+[2020.11.10-15.01.51:979][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000241E2E1AAC0), frame # 0
+[2020.11.10-15.01.52:045][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000241E2E5DC00), frame # 0
+[2020.11.10-15.01.53:076][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.177665 seconds
+[2020.11.10-15.01.53:117][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2020.11.10-15.01.53:117][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2020.11.10-15.01.53:117][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.11.10-15.02.04:894][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.11.10-15.02.05:072][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.11.10-15.02.07:411][  0]SourceControl: Source control is disabled
+[2020.11.10-15.02.13:300][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.11.10-15.02.13:301][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.11.10-15.02.19:312][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.11.10-15.02.19:579][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.11.10-15.02.19:579][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.11.10-15.02.20:361][  0]LogOcInput: OculusInput pre-init called
+[2020.11.10-15.02.20:647][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.11.10-15.02.20:647][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.11.10-15.02.24:354][  0]LogAutomationTest: Warning: Smoke tests took > 2s to run: 2.48s
+[2020.11.10-15.02.24:634][  0]LogEngine: Initializing Engine...
+[2020.11.10-15.02.24:781][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.11.10-15.02.24:792][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.11.10-15.02.24:987][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.024 s
+[2020.11.10-15.02.25:357][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.11.10-15.02.27:038][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.11.10-15.02.27:038][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000241E78A8600), frame # 0
+[2020.11.10-15.02.27:039][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000241E78C0680), frame # 0
+[2020.11.10-15.02.27:742][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.10-15.02.27:742][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.10-15.02.27:742][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.10-15.02.27:742][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.10-15.02.27:742][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.10-15.02.27:742][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.10-15.02.27:742][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.10-15.02.27:742][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.10-15.02.27:770][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.10-15.02.27:771][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.10-15.02.28:248][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.10-15.02.28:248][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.11.10-15.02.28:696][  0]LogAudioMixer: Display: Using Audio Device Alto-falantes (USB Audio Device)
+[2020.11.10-15.02.28:851][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.10-15.02.28:854][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.10-15.02.28:854][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.10-15.02.28:890][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.10-15.02.28:892][  0]LogInit: FAudioDevice initialized.
+[2020.11.10-15.02.28:939][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.11.10-15.02.29:605][  0]LogDerivedDataCache: Saved boot cache 0.67s 75MB C:/Users/lucca_000/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.11.10-15.02.29:605][  0]LogInit: Texture streaming: Enabled
+[2020.11.10-15.02.30:567][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.11.10-15.02.30:567][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.11.10-15.02.31:164][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.11.10-15.02.31:919][  0]LogInit: Transaction tracking system initialized
+[2020.11.10-15.02.33:407][  0]BlueprintLog: New page: Editor Load
+[2020.11.10-15.02.36:532][  0]LocalizationService: Localization service is disabled
+[2020.11.10-15.02.37:662][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.11.10-15.02.37:663][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.11.10-15.02.39:155][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lucca_000/Documents/Unreal Projects/Bambu/project/Content/' took 0.03s
+[2020.11.10-15.02.39:155][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.11.10-15.02.39:155][  0]LogCook: Display: Mobile HDR setting 1
+[2020.11.10-15.02.46:326][  0]LogUnrealEdMisc: Loading editor; pre map load, took 174.600
+[2020.11.10-15.02.46:429][  0]Cmd: MAP LOAD FILE="../../../../../../Users/lucca_000/Documents/Unreal Projects/Bambu/project/Content/MapPlay.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.11.10-15.02.46:473][  0]LightingResults: New page: Lighting Build
+[2020.11.10-15.02.46:755][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.11.10-15.02.46:780][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.10-15.02.46:817][  0]MapCheck: New page: Map Check
+[2020.11.10-15.02.46:817][  0]LightingResults: New page: Lighting Build
+[2020.11.10-15.02.47:670][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000241E78A8600), frame # 0
+[2020.11.10-15.02.47:670][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000241E78C0680), frame # 0
+[2020.11.10-15.02.47:689][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.11.10-15.02.50:556][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.11.10-15.02.50:560][  0]LogAIModule: Creating AISystem for world MapPlay
+[2020.11.10-15.02.50:560][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000241DC436A00), frame # 0
+[2020.11.10-15.02.50:560][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000241E01E2200), frame # 0
+[2020.11.10-15.02.50:985][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.11.10-15.02.50:992][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.11.10-15.02.50:997][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 4.72ms to complete.
+[2020.11.10-15.02.50:997][  0]LogFileHelpers: Loading map 'MapPlay' took 4.650
+[2020.11.10-15.02.53:008][  0]LogUnrealEdMisc: Total Editor Startup Time, took 181.281
+[2020.11.10-15.02.55:451][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.10-15.02.55:482][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.10-15.02.55:490][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.10-15.02.55:498][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.10-15.02.56:264][  0]LogCollectionManager: Loaded 0 collections in 0.003671 seconds
+[2020.11.10-15.02.57:052][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lucca_000/Documents/Unreal Projects/Bambu/project/Saved/Collections/' took 0.00s
+[2020.11.10-15.02.57:052][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lucca_000/Documents/Unreal Projects/Bambu/project/Content/Developers/lucca000/Collections/' took 0.00s
+[2020.11.10-15.02.57:052][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lucca_000/Documents/Unreal Projects/Bambu/project/Content/Collections/' took 0.00s
+[2020.11.10-15.02.57:052][  0]LogContentBrowser: Native class hierarchy populated in 0.0523 seconds. Added 3427 classes and 821 folders.
+[2020.11.10-15.02.57:407][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.11.10-15.02.59:880][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.11.10-15.03.00:148][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 2 classes and 0 folders.
+[2020.11.10-15.03.01:115][  0]LogSlate: Took 0.031045 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.11.10-15.03.01:234][  0]LogSlate: Took 0.028902 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.11.10-15.03.01:380][  0]LogSlate: Took 0.013091 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.11.10-15.03.02:176][  0]LogRenderer: Reallocating scene render targets to support 1168x600 Format 10 NumSamples 1 (Frame:1).
+[2020.11.10-15.03.03:733][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.11.10-15.03.03:733][  0]LogLoad: (Engine Initialization) Total time: 192.01 seconds
+[2020.11.10-15.03.03:733][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.11.10-15.03.04:780][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.11.10-15.03.05:095][  0]LogSlate: Took 0.008273 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.11.10-15.03.05:348][  1]LogAssetRegistry: Asset discovery search completed in 109.4850 seconds
+[2020.11.10-15.03.05:371][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000583 seconds (updated 0 objects)
+[2020.11.10-15.03.51:810][748]LogMaterial: Display: Missing cached shader map for material M_Water_Ocean, compiling. 
+[2020.11.10-15.03.52:219][748]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 48
+[2020.11.10-15.03.52:219][748]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 38
+[2020.11.10-15.03.52:219][748]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 28
+[2020.11.10-15.03.52:219][748]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2020.11.10-15.03.52:254][748]LogSlate: Took 0.000254 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.11.10-15.03.52:368][748]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/RunCharacter.RunCharacter
+[2020.11.10-15.03.55:345][748]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 125 classes and 0 folders.
+[2020.11.10-15.04.03:566][748]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.11.10-15.04.04:466][748]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.11.10-15.04.04:466][748]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.11.10-15.04.04:466][748]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.11.10-15.04.05:421][748]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.11.10-15.04.13:993][748]LogSlate: Took 0.033487 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.11.10-15.05.19:573][583]LogSlate: Window 'RunCharacter' being destroyed
+[2020.11.10-15.05.19:771][583]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.11.10-15.05.19:786][583]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.10-15.08.32:803][234]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.10-15.08.32:974][234]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.10-15.08.32:993][234]PIE: New page: PIE session: MapPlay (Nov 10, 2020, 10:08:32 AM)
+[2020.11.10-15.08.33:094][234]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.11.10-15.08.33:109][234]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.11.10-15.08.33:141][234]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_MapPlay
+[2020.11.10-15.08.33:180][234]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038299s)
+[2020.11.10-15.08.33:265][234]LogAIModule: Creating AISystem for world MapPlay
+[2020.11.10-15.08.33:273][234]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002419DD60A00), frame # 8234
+[2020.11.10-15.08.33:279][234]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000024185BC2E80), frame # 8234
+[2020.11.10-15.08.33:282][234]LogPlayLevel: PIE: World Init took: (0.101772s)
+[2020.11.10-15.08.33:304][234]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/MapPlay.MapPlay to /Game/ThirdPersonBP/Maps/UEDPIE_0_MapPlay.MapPlay (0.140335s)
+[2020.11.10-15.08.33:814][234]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2020.11.10-15.08.33:831][234]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.10-15.08.33:831][234]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.10-15.08.33:831][234]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.10-15.08.33:831][234]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.10-15.08.33:831][234]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.10-15.08.33:831][234]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.10-15.08.33:831][234]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.10-15.08.33:831][234]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.10-15.08.33:858][234]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.10-15.08.33:858][234]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.10-15.08.33:932][234]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.10-15.08.33:932][234]LogAudioMixer: Display: 1: FrontRight
+[2020.11.10-15.08.34:068][234]LogAudioMixer: Display: Using Audio Device Alto-falantes (USB Audio Device)
+[2020.11.10-15.08.34:068][234]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.10-15.08.34:069][234]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.10-15.08.34:069][234]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.10-15.08.34:069][234]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.10-15.08.34:082][234]LogInit: FAudioDevice initialized.
+[2020.11.10-15.08.35:837][234]LogLoad: Game class is 'RunGameMode_C'
+[2020.11.10-15.08.36:032][234]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_MapPlay.MapPlay up for play (max tick rate 0) at 2020.11.10-12.08.36
+[2020.11.10-15.08.36:041][234]LogWorld: Bringing up level for play took: 0.082210
+[2020.11.10-15.08.36:104][234]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2020.11.10-15.08.36:423][234]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2020.11.10-15.08.36:615][234]LogBlueprintUserMessages: [BP_FloorTile_Spacebetween_C_0] 
+[2020.11.10-15.08.36:616][234]LogBlueprintUserMessages: [BP_FloorTile_Spacebetween_C_1] 
+[2020.11.10-15.08.36:626][234]PIE: Server logged in
+[2020.11.10-15.08.36:649][234]PIE: Play in editor total start time 3.775 seconds.
+[2020.11.10-15.08.37:687][235]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.060889 > MaxSimulationTimeStep (0.050) for 'RunCharacter_C_0', movement 'Walking'
+[2020.11.10-15.08.37:750][236]LogBlueprintUserMessages: [BP_FloorTile_LeftCorner_C_0] 
+[2020.11.10-15.08.37:885][239]LogBlueprintUserMessages: [BP_FloorTile_RightCorner_C_0] Hello
+[2020.11.10-15.08.37:915][240]LogBlueprintUserMessages: [BP_FloorTile_Spacebetween_C_0] 
+[2020.11.10-15.08.40:000][381]LogBlueprintUserMessages: [BP_FloorTile_RightCorner_C_0] Hello
+[2020.11.10-15.08.40:669][446]LogBlueprintUserMessages: [BP_FloorTile_Spacebetween_C_2] 
+[2020.11.10-15.08.42:026][591]LogBlueprintUserMessages: [BP_FloorTile_Spacebetween_C_3] 
+[2020.11.10-15.08.45:614][961]LogBlueprintUserMessages: [BP_FloorTile_Spacebetween_C_4] 
+[2020.11.10-15.08.46:976][116]LogBlueprintUserMessages: [BP_FloorTile_Spacebetween_C_5] 
+[2020.11.10-15.08.49:323][317]LogBlueprintUserMessages: [BP_FloorTile_RightCorner_C_1] Hello
+[2020.11.10-15.08.49:982][388]LogBlueprintUserMessages: [BP_FloorTile_Spacebetween_C_6] 
+[2020.11.10-15.08.50:712][475]LogBlueprintUserMessages: [BP_FloorTile_Spacebetween_C_7] 
+[2020.11.10-15.08.54:885][963]LogBlueprintUserMessages: [BP_FloorTile_Spacebetween_C_8] 
+[2020.11.10-15.08.55:188][974]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.10-15.08.55:189][974]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_MapPlay
+[2020.11.10-15.08.55:239][974]LogWorld: UWorld::CleanupWorld for MapPlay, bSessionEnded=true, bCleanupResources=true
+[2020.11.10-15.08.55:274][974]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.10-15.08.55:331][974]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.10-15.08.55:359][974]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.10-15.08.55:644][974]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.10-15.08.55:850][974]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002419DD60A00), frame # 9974
+[2020.11.10-15.08.55:850][974]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000024185BC2E80), frame # 9974
+[2020.11.10-15.08.55:856][974]LogUObjectHash: Compacting FUObjectHashTables data took   5.05ms
+[2020.11.10-15.08.55:933][975]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.11.10-15.29.50:811][441]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\lucca_000\Desktop\boneco unreal\ganfaul_m_aure.fbx)
+[2020.11.10-15.29.51:844][441]LogFbx: Loading FBX Scene from C:\Users\lucca_000\Desktop\boneco unreal\ganfaul_m_aure.fbx
+[2020.11.10-15.29.52:330][441]LogFbx: FBX Scene Loaded Succesfully
+[2020.11.10-15.34.59:559][441]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.11.10-15.34.59:912][441]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Ganfaul : The relative matrices do not match
+[2020.11.10-15.34.59:912][441]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2020.11.10-15.34.59:914][441]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - Ganfaul
+[2020.11.10-15.34.59:914][441]LogFbx: Warning: Recreating bind pose succeeded.
+[2020.11.10-15.35.03:301][441]LogMaterial: Display: Material /Game/ThirdPersonBP/Blueprints/skins/Ganfaul_Body.Ganfaul_Body needed to have new flag set bUsedWithSkeletalMesh !
+[2020.11.10-15.35.03:350][441]LogMaterial: Display: Missing cached shader map for material Ganfaul_Body, compiling. 
+[2020.11.10-15.35.03:682][441]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 39
+[2020.11.10-15.35.03:682][441]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 29
+[2020.11.10-15.35.03:682][441]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2020.11.10-15.35.03:682][441]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.11.10-15.35.06:008][441]LogTexture: Display: Building textures: Ganfaul_diffuse (AutoDXT, 2048X2048)
+[2020.11.10-15.35.09:807][441]LogTexture: Display: Building textures: Ganfaul_glow (AutoDXT, 2048X2048)
+[2020.11.10-15.35.10:791][441]LogTexture: Display: Building textures: Ganfaul_specular (AutoDXT, 2048X2048)
+[2020.11.10-15.35.13:257][441]LogTexture: Display: Building textures: Ganfaul_normal (BC5, 2048X2048)
+[2020.11.10-15.35.14:653][441]LogTexture: Display: Building textures: Ganfaul_diffuse (AutoDXT, 2048X2048)
+[2020.11.10-15.35.20:009][441]LogMaterial: Display: Missing cached shader map for material Ganfaul_Body, compiling. 
+[2020.11.10-15.35.24:959][441]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 87
+[2020.11.10-15.35.24:959][441]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 77
+[2020.11.10-15.35.24:959][441]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 67
+[2020.11.10-15.35.24:959][441]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 57
+[2020.11.10-15.35.24:959][441]LogFbx: Triangulating skeletal mesh Ganfaul
+[2020.11.10-15.35.28:537][441]LogFbx: Warning: Bones digested - 65  Depth of hierarchy - 12
+[2020.11.10-15.35.30:301][441]LogSkeletalMesh: Display: Skeletal ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2020.11.10-15.35.31:424][441]LogSkeletalMesh: Section 0: 8800 vertices, 52 active bones
+[2020.11.10-15.35.31:448][441]LogSkeletalMesh: Section 0: Material=0, 13801 triangles
+[2020.11.10-15.35.33:174][441]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 47
+[2020.11.10-15.35.33:174][441]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 37
+[2020.11.10-15.35.33:174][441]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 27
+[2020.11.10-15.35.33:174][441]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2020.11.10-15.35.33:202][441]LogSkeletalMesh: Building Skeletal Mesh ganfaul_m_aure...
+[2020.11.10-15.35.33:407][441]LogSkeletalMesh: Display: Skeletal ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2020.11.10-15.35.34:245][441]LogSkeletalMesh: Section 0: 8800 vertices, 52 active bones
+[2020.11.10-15.35.34:248][441]LogSkeletalMesh: Section 0: Material=0, 13801 triangles
+[2020.11.10-15.35.34:565][441]LogSkeletalMesh: Built Skeletal Mesh [1.38s] /Game/ThirdPersonBP/Blueprints/skins/ganfaul_m_aure.ganfaul_m_aure
+[2020.11.10-15.35.37:744][441]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2020.11.10-15.35.38:869][441]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.11.10-15.35.38:939][441]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.11.10-15.35.39:019][441]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.10-15.35.39:764][441]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.11.10-15.35.40:100][441]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.11.10-15.35.40:100][441]LogFbx: SortedLinks :(0) Hips
+[2020.11.10-15.35.40:100][441]LogFbx: SortedLinks :(1) Spine
+[2020.11.10-15.35.40:100][441]LogFbx: SortedLinks :(2) Spine1
+[2020.11.10-15.35.40:100][441]LogFbx: SortedLinks :(3) Spine2
+[2020.11.10-15.35.40:100][441]LogFbx: SortedLinks :(4) Neck
+[2020.11.10-15.35.40:100][441]LogFbx: SortedLinks :(5) Head
+[2020.11.10-15.35.40:100][441]LogFbx: SortedLinks :(6) HeadTop_End
+[2020.11.10-15.35.40:101][441]LogFbx: SortedLinks :(7) LeftShoulder
+[2020.11.10-15.35.40:101][441]LogFbx: SortedLinks :(8) LeftArm
+[2020.11.10-15.35.40:101][441]LogFbx: SortedLinks :(9) LeftForeArm
+[2020.11.10-15.35.40:101][441]LogFbx: SortedLinks :(10) LeftHand
+[2020.11.10-15.35.40:101][441]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2020.11.10-15.35.40:101][441]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2020.11.10-15.35.40:102][441]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2020.11.10-15.35.40:102][441]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2020.11.10-15.35.40:102][441]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2020.11.10-15.35.40:102][441]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2020.11.10-15.35.40:102][441]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2020.11.10-15.35.40:102][441]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2020.11.10-15.35.40:102][441]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2020.11.10-15.35.40:102][441]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2020.11.10-15.35.40:102][441]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2020.11.10-15.35.40:102][441]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2020.11.10-15.35.40:102][441]LogFbx: SortedLinks :(23) LeftHandRing1
+[2020.11.10-15.35.40:102][441]LogFbx: SortedLinks :(24) LeftHandRing2
+[2020.11.10-15.35.40:102][441]LogFbx: SortedLinks :(25) LeftHandRing3
+[2020.11.10-15.35.40:103][441]LogFbx: SortedLinks :(26) LeftHandRing4
+[2020.11.10-15.35.40:103][441]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2020.11.10-15.35.40:103][441]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2020.11.10-15.35.40:103][441]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2020.11.10-15.35.40:103][441]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2020.11.10-15.35.40:103][441]LogFbx: SortedLinks :(31) RightShoulder
+[2020.11.10-15.35.40:103][441]LogFbx: SortedLinks :(32) RightArm
+[2020.11.10-15.35.40:103][441]LogFbx: SortedLinks :(33) RightForeArm
+[2020.11.10-15.35.40:103][441]LogFbx: SortedLinks :(34) RightHand
+[2020.11.10-15.35.40:103][441]LogFbx: SortedLinks :(35) RightHandIndex1
+[2020.11.10-15.35.40:104][441]LogFbx: SortedLinks :(36) RightHandIndex2
+[2020.11.10-15.35.40:104][441]LogFbx: SortedLinks :(37) RightHandIndex3
+[2020.11.10-15.35.40:104][441]LogFbx: SortedLinks :(38) RightHandIndex4
+[2020.11.10-15.35.40:104][441]LogFbx: SortedLinks :(39) RightHandMiddle1
+[2020.11.10-15.35.40:104][441]LogFbx: SortedLinks :(40) RightHandMiddle2
+[2020.11.10-15.35.40:104][441]LogFbx: SortedLinks :(41) RightHandMiddle3
+[2020.11.10-15.35.40:104][441]LogFbx: SortedLinks :(42) RightHandMiddle4
+[2020.11.10-15.35.40:104][441]LogFbx: SortedLinks :(43) RightHandRing1
+[2020.11.10-15.35.40:121][441]LogFbx: SortedLinks :(44) RightHandRing2
+[2020.11.10-15.35.40:122][441]LogFbx: SortedLinks :(45) RightHandRing3
+[2020.11.10-15.35.40:122][441]LogFbx: SortedLinks :(46) RightHandRing4
+[2020.11.10-15.35.40:122][441]LogFbx: SortedLinks :(47) RightHandPinky1
+[2020.11.10-15.35.40:122][441]LogFbx: SortedLinks :(48) RightHandPinky2
+[2020.11.10-15.35.40:122][441]LogFbx: SortedLinks :(49) RightHandPinky3
+[2020.11.10-15.35.40:122][441]LogFbx: SortedLinks :(50) RightHandPinky4
+[2020.11.10-15.35.40:122][441]LogFbx: SortedLinks :(51) RightHandThumb1
+[2020.11.10-15.35.40:122][441]LogFbx: SortedLinks :(52) RightHandThumb2
+[2020.11.10-15.35.40:122][441]LogFbx: SortedLinks :(53) RightHandThumb3
+[2020.11.10-15.35.40:122][441]LogFbx: SortedLinks :(54) RightHandThumb4
+[2020.11.10-15.35.40:122][441]LogFbx: SortedLinks :(55) LeftUpLeg
+[2020.11.10-15.35.40:122][441]LogFbx: SortedLinks :(56) LeftLeg
+[2020.11.10-15.35.40:122][441]LogFbx: SortedLinks :(57) LeftFoot
+[2020.11.10-15.35.40:122][441]LogFbx: SortedLinks :(58) LeftToeBase
+[2020.11.10-15.35.40:122][441]LogFbx: SortedLinks :(59) LeftToe_End
+[2020.11.10-15.35.40:122][441]LogFbx: SortedLinks :(60) RightUpLeg
+[2020.11.10-15.35.40:122][441]LogFbx: SortedLinks :(61) RightLeg
+[2020.11.10-15.35.40:122][441]LogFbx: SortedLinks :(62) RightFoot
+[2020.11.10-15.35.40:122][441]LogFbx: SortedLinks :(63) RightToeBase
+[2020.11.10-15.35.40:122][441]LogFbx: SortedLinks :(64) RightToe_End
+[2020.11.10-15.35.40:163][441]LogFbx: SortedLinks :(0) Hips
+[2020.11.10-15.35.40:163][441]LogFbx: SortedLinks :(1) Spine
+[2020.11.10-15.35.40:163][441]LogFbx: SortedLinks :(2) Spine1
+[2020.11.10-15.35.40:163][441]LogFbx: SortedLinks :(3) Spine2
+[2020.11.10-15.35.40:163][441]LogFbx: SortedLinks :(4) Neck
+[2020.11.10-15.35.40:163][441]LogFbx: SortedLinks :(5) Head
+[2020.11.10-15.35.40:163][441]LogFbx: SortedLinks :(6) HeadTop_End
+[2020.11.10-15.35.40:163][441]LogFbx: SortedLinks :(7) LeftShoulder
+[2020.11.10-15.35.40:163][441]LogFbx: SortedLinks :(8) LeftArm
+[2020.11.10-15.35.40:163][441]LogFbx: SortedLinks :(9) LeftForeArm
+[2020.11.10-15.35.40:163][441]LogFbx: SortedLinks :(10) LeftHand
+[2020.11.10-15.35.40:163][441]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2020.11.10-15.35.40:163][441]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2020.11.10-15.35.40:163][441]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2020.11.10-15.35.40:163][441]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2020.11.10-15.35.40:163][441]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2020.11.10-15.35.40:163][441]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2020.11.10-15.35.40:163][441]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2020.11.10-15.35.40:163][441]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2020.11.10-15.35.40:163][441]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2020.11.10-15.35.40:164][441]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2020.11.10-15.35.40:164][441]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2020.11.10-15.35.40:164][441]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2020.11.10-15.35.40:164][441]LogFbx: SortedLinks :(23) LeftHandRing1
+[2020.11.10-15.35.40:164][441]LogFbx: SortedLinks :(24) LeftHandRing2
+[2020.11.10-15.35.40:164][441]LogFbx: SortedLinks :(25) LeftHandRing3
+[2020.11.10-15.35.40:164][441]LogFbx: SortedLinks :(26) LeftHandRing4
+[2020.11.10-15.35.40:164][441]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2020.11.10-15.35.40:164][441]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2020.11.10-15.35.40:164][441]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2020.11.10-15.35.40:164][441]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2020.11.10-15.35.40:164][441]LogFbx: SortedLinks :(31) RightShoulder
+[2020.11.10-15.35.40:164][441]LogFbx: SortedLinks :(32) RightArm
+[2020.11.10-15.35.40:164][441]LogFbx: SortedLinks :(33) RightForeArm
+[2020.11.10-15.35.40:164][441]LogFbx: SortedLinks :(34) RightHand
+[2020.11.10-15.35.40:164][441]LogFbx: SortedLinks :(35) RightHandIndex1
+[2020.11.10-15.35.40:164][441]LogFbx: SortedLinks :(36) RightHandIndex2
+[2020.11.10-15.35.40:165][441]LogFbx: SortedLinks :(37) RightHandIndex3
+[2020.11.10-15.35.40:165][441]LogFbx: SortedLinks :(38) RightHandIndex4
+[2020.11.10-15.35.40:165][441]LogFbx: SortedLinks :(39) RightHandMiddle1
+[2020.11.10-15.35.40:165][441]LogFbx: SortedLinks :(40) RightHandMiddle2
+[2020.11.10-15.35.40:165][441]LogFbx: SortedLinks :(41) RightHandMiddle3
+[2020.11.10-15.35.40:165][441]LogFbx: SortedLinks :(42) RightHandMiddle4
+[2020.11.10-15.35.40:165][441]LogFbx: SortedLinks :(43) RightHandRing1
+[2020.11.10-15.35.40:165][441]LogFbx: SortedLinks :(44) RightHandRing2
+[2020.11.10-15.35.40:165][441]LogFbx: SortedLinks :(45) RightHandRing3
+[2020.11.10-15.35.40:165][441]LogFbx: SortedLinks :(46) RightHandRing4
+[2020.11.10-15.35.40:165][441]LogFbx: SortedLinks :(47) RightHandPinky1
+[2020.11.10-15.35.40:165][441]LogFbx: SortedLinks :(48) RightHandPinky2
+[2020.11.10-15.35.40:165][441]LogFbx: SortedLinks :(49) RightHandPinky3
+[2020.11.10-15.35.40:165][441]LogFbx: SortedLinks :(50) RightHandPinky4
+[2020.11.10-15.35.40:165][441]LogFbx: SortedLinks :(51) RightHandThumb1
+[2020.11.10-15.35.40:165][441]LogFbx: SortedLinks :(52) RightHandThumb2
+[2020.11.10-15.35.40:165][441]LogFbx: SortedLinks :(53) RightHandThumb3
+[2020.11.10-15.35.40:165][441]LogFbx: SortedLinks :(54) RightHandThumb4
+[2020.11.10-15.35.40:165][441]LogFbx: SortedLinks :(55) LeftUpLeg
+[2020.11.10-15.35.40:165][441]LogFbx: SortedLinks :(56) LeftLeg
+[2020.11.10-15.35.40:165][441]LogFbx: SortedLinks :(57) LeftFoot
+[2020.11.10-15.35.40:165][441]LogFbx: SortedLinks :(58) LeftToeBase
+[2020.11.10-15.35.40:165][441]LogFbx: SortedLinks :(59) LeftToe_End
+[2020.11.10-15.35.40:165][441]LogFbx: SortedLinks :(60) RightUpLeg
+[2020.11.10-15.35.40:166][441]LogFbx: SortedLinks :(61) RightLeg
+[2020.11.10-15.35.40:166][441]LogFbx: SortedLinks :(62) RightFoot
+[2020.11.10-15.35.40:166][441]LogFbx: SortedLinks :(63) RightToeBase
+[2020.11.10-15.35.40:166][441]LogFbx: SortedLinks :(64) RightToe_End
+[2020.11.10-15.35.40:187][441]LogFbx: Parsing AnimStack Take 001
+[2020.11.10-15.35.41:037][441]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.11.10-15.35.41:207][441]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.11.10-15.35.41:662][441]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Blueprints/skins/ganfaul_m_aure_Anim_Take_001.ganfaul_m_aure_Anim_Take_001
+[2020.11.10-15.35.42:694][441]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.11.10-15.35.42:694][441]LogFbx: Parsing AnimStack mixamo.com
+[2020.11.10-15.35.42:940][441]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Blueprints/skins/ganfaul_m_aure_Anim_mixamo_com.ganfaul_m_aure_Anim_mixamo_com
+[2020.11.10-15.35.43:383][441]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.11.10-15.35.49:282][441]LogSlate: Took 0.075993 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.11.10-15.35.54:425][442]LogUObjectHash: Compacting FUObjectHashTables data took  23.78ms
+[2020.11.10-15.35.54:813][442]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/MapPlay' took 4.242
+[2020.11.10-15.35.55:090][442]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/skins/ganfaul_m_aure] ([1] browsable assets)...
+[2020.11.10-15.35.55:595][442]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/ThirdPersonBP/Blueprints/skins/ganfaul_m_aure.ganfaul_m_aure]
+[2020.11.10-15.35.55:595][442]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/skins/ganfaul_m_aure]
+[2020.11.10-15.35.56:528][442]LogSavePackage: Moving '../../../../../../Users/lucca_000/Documents/Unreal Projects/Bambu/project/Saved/ganfaul_m_aure_Auto1F4A7C4AE40665389F1C8FDB5B6EDF354.tmp' to '../../../../../../Users/lucca_000/Documents/Unreal Projects/Bambu/project/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/skins/ganfaul_m_aure_Auto1.uasset'
+[2020.11.10-15.35.56:650][442]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/skins/Ganfaul_Body] ([1] browsable assets)...
+[2020.11.10-15.35.56:857][442]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ThirdPersonBP/Blueprints/skins/Ganfaul_Body.Ganfaul_Body]
+[2020.11.10-15.35.56:857][442]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/skins/Ganfaul_Body]
+[2020.11.10-15.35.57:002][442]LogSavePackage: Moving '../../../../../../Users/lucca_000/Documents/Unreal Projects/Bambu/project/Saved/Ganfaul_Body_Auto196241A084CB02F89AC710D8FB37D6160.tmp' to '../../../../../../Users/lucca_000/Documents/Unreal Projects/Bambu/project/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/skins/Ganfaul_Body_Auto1.uasset'
+[2020.11.10-15.35.57:004][442]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/skins/Ganfaul_diffuse] ([1] browsable assets)...
+[2020.11.10-15.35.57:010][442]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/skins/Ganfaul_diffuse.Ganfaul_diffuse]
+[2020.11.10-15.35.57:010][442]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/skins/Ganfaul_diffuse]
+[2020.11.10-15.35.57:032][442]LogSavePackage: Moving '../../../../../../Users/lucca_000/Documents/Unreal Projects/Bambu/project/Saved/Ganfaul_diffuse_Auto1705C3157442D381FF9E9BC89D1A7CDE3.tmp' to '../../../../../../Users/lucca_000/Documents/Unreal Projects/Bambu/project/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/skins/Ganfaul_diffuse_Auto1.uasset'
+[2020.11.10-15.35.57:037][442]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/skins/Ganfaul_glow] ([1] browsable assets)...
+[2020.11.10-15.35.57:039][442]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/skins/Ganfaul_glow.Ganfaul_glow]
+[2020.11.10-15.35.57:039][442]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/skins/Ganfaul_glow]
+[2020.11.10-15.35.57:070][442]LogSavePackage: Moving '../../../../../../Users/lucca_000/Documents/Unreal Projects/Bambu/project/Saved/Ganfaul_glow_Auto1F385CA6B44D893255B2756B7D6475FE3.tmp' to '../../../../../../Users/lucca_000/Documents/Unreal Projects/Bambu/project/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/skins/Ganfaul_glow_Auto1.uasset'
+[2020.11.10-15.35.57:072][442]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/skins/Ganfaul_specular] ([1] browsable assets)...
+[2020.11.10-15.35.57:077][442]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/skins/Ganfaul_specular.Ganfaul_specular]
+[2020.11.10-15.35.57:077][442]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/skins/Ganfaul_specular]
+[2020.11.10-15.35.57:185][442]LogSavePackage: Moving '../../../../../../Users/lucca_000/Documents/Unreal Projects/Bambu/project/Saved/Ganfaul_specular_Auto1D8A57DAD45140BE86B1D0FA450E68A06.tmp' to '../../../../../../Users/lucca_000/Documents/Unreal Projects/Bambu/project/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/skins/Ganfaul_specular_Auto1.uasset'
+[2020.11.10-15.35.57:188][442]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/skins/Ganfaul_normal] ([1] browsable assets)...
+[2020.11.10-15.35.57:542][442]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/skins/Ganfaul_normal.Ganfaul_normal]
+[2020.11.10-15.35.57:542][442]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/skins/Ganfaul_normal]
+[2020.11.10-15.35.57:649][442]LogSavePackage: Moving '../../../../../../Users/lucca_000/Documents/Unreal Projects/Bambu/project/Saved/Ganfaul_normal_Auto11D47B1444CC8CDC1C82F96A9E72DBB7F.tmp' to '../../../../../../Users/lucca_000/Documents/Unreal Projects/Bambu/project/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/skins/Ganfaul_normal_Auto1.uasset'
+[2020.11.10-15.35.57:651][442]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/skins/ganfaul_m_aure_Skeleton] ([1] browsable assets)...
+[2020.11.10-15.35.57:651][442]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/skins/ganfaul_m_aure_Skeleton]
+[2020.11.10-15.35.57:656][442]LogSavePackage: Moving '../../../../../../Users/lucca_000/Documents/Unreal Projects/Bambu/project/Saved/ganfaul_m_aure_Skeleton_Auto1168BFDF548108D5B8413819DCBADC334.tmp' to '../../../../../../Users/lucca_000/Documents/Unreal Projects/Bambu/project/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/skins/ganfaul_m_aure_Skeleton_Auto1.uasset'
+[2020.11.10-15.35.57:658][442]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/skins/ganfaul_m_aure_PhysicsAsset] ([1] browsable assets)...
+[2020.11.10-15.35.57:727][442]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/ThirdPersonBP/Blueprints/skins/ganfaul_m_aure_PhysicsAsset.ganfaul_m_aure_PhysicsAsset]
+[2020.11.10-15.35.57:727][442]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/skins/ganfaul_m_aure_PhysicsAsset]
+[2020.11.10-15.35.57:879][442]LogSavePackage: Moving '../../../../../../Users/lucca_000/Documents/Unreal Projects/Bambu/project/Saved/ganfaul_m_aure_PhysicsAsset_Auto48E5A27E455345F303E0A3A54197E24C.tmp' to '../../../../../../Users/lucca_000/Documents/Unreal Projects/Bambu/project/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/skins/ganfaul_m_aure_PhysicsAsset_Auto1.uasset'
+[2020.11.10-15.35.57:881][442]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/skins/ganfaul_m_aure_Anim_Take_001] ([1] browsable assets)...
+[2020.11.10-15.35.58:300][442]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/ThirdPersonBP/Blueprints/skins/ganfaul_m_aure_Anim_Take_001.ganfaul_m_aure_Anim_Take_001]
+[2020.11.10-15.35.58:300][442]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/skins/ganfaul_m_aure_Anim_Take_001]
+[2020.11.10-15.35.58:330][442]LogSavePackage: Moving '../../../../../../Users/lucca_000/Documents/Unreal Projects/Bambu/project/Saved/ganfaul_m_aure_Anim_Take_001_Aut575D159F40D134EA4BB0FEAAC0BEC841.tmp' to '../../../../../../Users/lucca_000/Documents/Unreal Projects/Bambu/project/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/skins/ganfaul_m_aure_Anim_Take_001_Auto1.uasset'
+[2020.11.10-15.35.58:332][442]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/skins/ganfaul_m_aure_Anim_mixamo_com] ([1] browsable assets)...
+[2020.11.10-15.35.58:345][442]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/ThirdPersonBP/Blueprints/skins/ganfaul_m_aure_Anim_mixamo_com.ganfaul_m_aure_Anim_mixamo_com]
+[2020.11.10-15.35.58:345][442]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/skins/ganfaul_m_aure_Anim_mixamo_com]
+[2020.11.10-15.35.58:996][442]LogSavePackage: Moving '../../../../../../Users/lucca_000/Documents/Unreal Projects/Bambu/project/Saved/ganfaul_m_aure_Anim_mixamo_com_ABB08885746049DEFF224D394A1115142.tmp' to '../../../../../../Users/lucca_000/Documents/Unreal Projects/Bambu/project/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/skins/ganfaul_m_aure_Anim_mixamo_com_Auto1.uasset'
+[2020.11.10-15.35.58:998][442]LogFileHelpers: Auto-saving content packages took 4.160
+[2020.11.10-15.36.11:570][485]LogSlate: Window 'Message Log' being destroyed
+[2020.11.10-15.36.11:577][485]LogSlate: Window 'Message Log' being destroyed
+[2020.11.10-15.37.01:585][975]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\lucca_000\Desktop\boneco unreal\Big Jump.fbx)
+[2020.11.10-15.37.01:688][975]LogFbx: Loading FBX Scene from C:\Users\lucca_000\Desktop\boneco unreal\Big Jump.fbx
+[2020.11.10-15.37.01:871][975]LogFbx: FBX Scene Loaded Succesfully
+[2020.11.10-15.37.20:199][975]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.11.10-15.37.20:270][975]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Ganfaul : The relative matrices do not match
+[2020.11.10-15.37.20:270][975]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2020.11.10-15.37.20:271][975]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - Ganfaul
+[2020.11.10-15.37.20:271][975]LogFbx: Warning: Recreating bind pose succeeded.
+[2020.11.10-15.37.20:275][975]LogFbx: Triangulating skeletal mesh Ganfaul
+[2020.11.10-15.37.21:109][975]LogFbx: Warning: Bones digested - 65  Depth of hierarchy - 12
+[2020.11.10-15.37.21:296][975]LogSkeletalMesh: Display: Skeletal ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2020.11.10-15.37.21:671][975]LogSkeletalMesh: Section 0: 8800 vertices, 52 active bones
+[2020.11.10-15.37.21:673][975]LogSkeletalMesh: Section 0: Material=0, 13801 triangles
+[2020.11.10-15.37.21:735][975]LogSkeletalMesh: Building Skeletal Mesh Big_Jump...
+[2020.11.10-15.37.21:816][975]LogSkeletalMesh: Display: Skeletal ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2020.11.10-15.37.22:128][975]LogSkeletalMesh: Section 0: 8800 vertices, 52 active bones
+[2020.11.10-15.37.22:130][975]LogSkeletalMesh: Section 0: Material=0, 13801 triangles
+[2020.11.10-15.37.22:165][975]LogSkeletalMesh: Built Skeletal Mesh [0.43s] /Game/ThirdPersonBP/Blueprints/skins/Big_Jump.Big_Jump
+[2020.11.10-15.37.22:180][975]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.11.10-15.37.22:180][975]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.10-15.37.22:192][975]LogFbx: SortedLinks :(0) Hips
+[2020.11.10-15.37.22:192][975]LogFbx: SortedLinks :(1) Spine
+[2020.11.10-15.37.22:192][975]LogFbx: SortedLinks :(2) Spine1
+[2020.11.10-15.37.22:192][975]LogFbx: SortedLinks :(3) Spine2
+[2020.11.10-15.37.22:192][975]LogFbx: SortedLinks :(4) Neck
+[2020.11.10-15.37.22:192][975]LogFbx: SortedLinks :(5) Head
+[2020.11.10-15.37.22:192][975]LogFbx: SortedLinks :(6) HeadTop_End
+[2020.11.10-15.37.22:192][975]LogFbx: SortedLinks :(7) LeftShoulder
+[2020.11.10-15.37.22:192][975]LogFbx: SortedLinks :(8) LeftArm
+[2020.11.10-15.37.22:192][975]LogFbx: SortedLinks :(9) LeftForeArm
+[2020.11.10-15.37.22:192][975]LogFbx: SortedLinks :(10) LeftHand
+[2020.11.10-15.37.22:192][975]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2020.11.10-15.37.22:192][975]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2020.11.10-15.37.22:192][975]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2020.11.10-15.37.22:192][975]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2020.11.10-15.37.22:192][975]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2020.11.10-15.37.22:193][975]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2020.11.10-15.37.22:193][975]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2020.11.10-15.37.22:193][975]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2020.11.10-15.37.22:193][975]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2020.11.10-15.37.22:193][975]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2020.11.10-15.37.22:193][975]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2020.11.10-15.37.22:193][975]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2020.11.10-15.37.22:193][975]LogFbx: SortedLinks :(23) LeftHandRing1
+[2020.11.10-15.37.22:193][975]LogFbx: SortedLinks :(24) LeftHandRing2
+[2020.11.10-15.37.22:193][975]LogFbx: SortedLinks :(25) LeftHandRing3
+[2020.11.10-15.37.22:193][975]LogFbx: SortedLinks :(26) LeftHandRing4
+[2020.11.10-15.37.22:193][975]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2020.11.10-15.37.22:193][975]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2020.11.10-15.37.22:193][975]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2020.11.10-15.37.22:193][975]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2020.11.10-15.37.22:193][975]LogFbx: SortedLinks :(31) RightShoulder
+[2020.11.10-15.37.22:193][975]LogFbx: SortedLinks :(32) RightArm
+[2020.11.10-15.37.22:193][975]LogFbx: SortedLinks :(33) RightForeArm
+[2020.11.10-15.37.22:193][975]LogFbx: SortedLinks :(34) RightHand
+[2020.11.10-15.37.22:193][975]LogFbx: SortedLinks :(35) RightHandIndex1
+[2020.11.10-15.37.22:193][975]LogFbx: SortedLinks :(36) RightHandIndex2
+[2020.11.10-15.37.22:193][975]LogFbx: SortedLinks :(37) RightHandIndex3
+[2020.11.10-15.37.22:193][975]LogFbx: SortedLinks :(38) RightHandIndex4
+[2020.11.10-15.37.22:193][975]LogFbx: SortedLinks :(39) RightHandMiddle1
+[2020.11.10-15.37.22:193][975]LogFbx: SortedLinks :(40) RightHandMiddle2
+[2020.11.10-15.37.22:193][975]LogFbx: SortedLinks :(41) RightHandMiddle3
+[2020.11.10-15.37.22:193][975]LogFbx: SortedLinks :(42) RightHandMiddle4
+[2020.11.10-15.37.22:193][975]LogFbx: SortedLinks :(43) RightHandRing1
+[2020.11.10-15.37.22:193][975]LogFbx: SortedLinks :(44) RightHandRing2
+[2020.11.10-15.37.22:193][975]LogFbx: SortedLinks :(45) RightHandRing3
+[2020.11.10-15.37.22:193][975]LogFbx: SortedLinks :(46) RightHandRing4
+[2020.11.10-15.37.22:193][975]LogFbx: SortedLinks :(47) RightHandPinky1
+[2020.11.10-15.37.22:193][975]LogFbx: SortedLinks :(48) RightHandPinky2
+[2020.11.10-15.37.22:193][975]LogFbx: SortedLinks :(49) RightHandPinky3
+[2020.11.10-15.37.22:193][975]LogFbx: SortedLinks :(50) RightHandPinky4
+[2020.11.10-15.37.22:193][975]LogFbx: SortedLinks :(51) RightHandThumb1
+[2020.11.10-15.37.22:193][975]LogFbx: SortedLinks :(52) RightHandThumb2
+[2020.11.10-15.37.22:193][975]LogFbx: SortedLinks :(53) RightHandThumb3
+[2020.11.10-15.37.22:193][975]LogFbx: SortedLinks :(54) RightHandThumb4
+[2020.11.10-15.37.22:193][975]LogFbx: SortedLinks :(55) LeftUpLeg
+[2020.11.10-15.37.22:193][975]LogFbx: SortedLinks :(56) LeftLeg
+[2020.11.10-15.37.22:193][975]LogFbx: SortedLinks :(57) LeftFoot
+[2020.11.10-15.37.22:193][975]LogFbx: SortedLinks :(58) LeftToeBase
+[2020.11.10-15.37.22:193][975]LogFbx: SortedLinks :(59) LeftToe_End
+[2020.11.10-15.37.22:193][975]LogFbx: SortedLinks :(60) RightUpLeg
+[2020.11.10-15.37.22:193][975]LogFbx: SortedLinks :(61) RightLeg
+[2020.11.10-15.37.22:193][975]LogFbx: SortedLinks :(62) RightFoot
+[2020.11.10-15.37.22:193][975]LogFbx: SortedLinks :(63) RightToeBase
+[2020.11.10-15.37.22:193][975]LogFbx: SortedLinks :(64) RightToe_End
+[2020.11.10-15.37.22:193][975]LogFbx: SortedLinks :(0) Hips
+[2020.11.10-15.37.22:193][975]LogFbx: SortedLinks :(1) Spine
+[2020.11.10-15.37.22:193][975]LogFbx: SortedLinks :(2) Spine1
+[2020.11.10-15.37.22:193][975]LogFbx: SortedLinks :(3) Spine2
+[2020.11.10-15.37.22:193][975]LogFbx: SortedLinks :(4) Neck
+[2020.11.10-15.37.22:193][975]LogFbx: SortedLinks :(5) Head
+[2020.11.10-15.37.22:193][975]LogFbx: SortedLinks :(6) HeadTop_End
+[2020.11.10-15.37.22:193][975]LogFbx: SortedLinks :(7) LeftShoulder
+[2020.11.10-15.37.22:193][975]LogFbx: SortedLinks :(8) LeftArm
+[2020.11.10-15.37.22:193][975]LogFbx: SortedLinks :(9) LeftForeArm
+[2020.11.10-15.37.22:193][975]LogFbx: SortedLinks :(10) LeftHand
+[2020.11.10-15.37.22:193][975]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2020.11.10-15.37.22:193][975]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2020.11.10-15.37.22:193][975]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2020.11.10-15.37.22:193][975]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2020.11.10-15.37.22:193][975]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2020.11.10-15.37.22:193][975]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2020.11.10-15.37.22:193][975]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2020.11.10-15.37.22:193][975]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2020.11.10-15.37.22:193][975]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2020.11.10-15.37.22:193][975]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2020.11.10-15.37.22:193][975]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2020.11.10-15.37.22:193][975]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2020.11.10-15.37.22:194][975]LogFbx: SortedLinks :(23) LeftHandRing1
+[2020.11.10-15.37.22:194][975]LogFbx: SortedLinks :(24) LeftHandRing2
+[2020.11.10-15.37.22:194][975]LogFbx: SortedLinks :(25) LeftHandRing3
+[2020.11.10-15.37.22:194][975]LogFbx: SortedLinks :(26) LeftHandRing4
+[2020.11.10-15.37.22:194][975]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2020.11.10-15.37.22:194][975]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2020.11.10-15.37.22:194][975]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2020.11.10-15.37.22:194][975]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2020.11.10-15.37.22:194][975]LogFbx: SortedLinks :(31) RightShoulder
+[2020.11.10-15.37.22:194][975]LogFbx: SortedLinks :(32) RightArm
+[2020.11.10-15.37.22:194][975]LogFbx: SortedLinks :(33) RightForeArm
+[2020.11.10-15.37.22:194][975]LogFbx: SortedLinks :(34) RightHand
+[2020.11.10-15.37.22:194][975]LogFbx: SortedLinks :(35) RightHandIndex1
+[2020.11.10-15.37.22:194][975]LogFbx: SortedLinks :(36) RightHandIndex2
+[2020.11.10-15.37.22:194][975]LogFbx: SortedLinks :(37) RightHandIndex3
+[2020.11.10-15.37.22:194][975]LogFbx: SortedLinks :(38) RightHandIndex4
+[2020.11.10-15.37.22:194][975]LogFbx: SortedLinks :(39) RightHandMiddle1
+[2020.11.10-15.37.22:194][975]LogFbx: SortedLinks :(40) RightHandMiddle2
+[2020.11.10-15.37.22:194][975]LogFbx: SortedLinks :(41) RightHandMiddle3
+[2020.11.10-15.37.22:194][975]LogFbx: SortedLinks :(42) RightHandMiddle4
+[2020.11.10-15.37.22:194][975]LogFbx: SortedLinks :(43) RightHandRing1
+[2020.11.10-15.37.22:194][975]LogFbx: SortedLinks :(44) RightHandRing2
+[2020.11.10-15.37.22:194][975]LogFbx: SortedLinks :(45) RightHandRing3
+[2020.11.10-15.37.22:194][975]LogFbx: SortedLinks :(46) RightHandRing4
+[2020.11.10-15.37.22:194][975]LogFbx: SortedLinks :(47) RightHandPinky1
+[2020.11.10-15.37.22:194][975]LogFbx: SortedLinks :(48) RightHandPinky2
+[2020.11.10-15.37.22:194][975]LogFbx: SortedLinks :(49) RightHandPinky3
+[2020.11.10-15.37.22:194][975]LogFbx: SortedLinks :(50) RightHandPinky4
+[2020.11.10-15.37.22:194][975]LogFbx: SortedLinks :(51) RightHandThumb1
+[2020.11.10-15.37.22:194][975]LogFbx: SortedLinks :(52) RightHandThumb2
+[2020.11.10-15.37.22:194][975]LogFbx: SortedLinks :(53) RightHandThumb3
+[2020.11.10-15.37.22:194][975]LogFbx: SortedLinks :(54) RightHandThumb4
+[2020.11.10-15.37.22:194][975]LogFbx: SortedLinks :(55) LeftUpLeg
+[2020.11.10-15.37.22:194][975]LogFbx: SortedLinks :(56) LeftLeg
+[2020.11.10-15.37.22:194][975]LogFbx: SortedLinks :(57) LeftFoot
+[2020.11.10-15.37.22:194][975]LogFbx: SortedLinks :(58) LeftToeBase
+[2020.11.10-15.37.22:194][975]LogFbx: SortedLinks :(59) LeftToe_End
+[2020.11.10-15.37.22:194][975]LogFbx: SortedLinks :(60) RightUpLeg
+[2020.11.10-15.37.22:194][975]LogFbx: SortedLinks :(61) RightLeg
+[2020.11.10-15.37.22:194][975]LogFbx: SortedLinks :(62) RightFoot
+[2020.11.10-15.37.22:194][975]LogFbx: SortedLinks :(63) RightToeBase
+[2020.11.10-15.37.22:194][975]LogFbx: SortedLinks :(64) RightToe_End
+[2020.11.10-15.37.22:195][975]LogFbx: Parsing AnimStack Take 001
+[2020.11.10-15.37.23:808][975]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Blueprints/skins/Big_Jump_Anim_Take_001.Big_Jump_Anim_Take_001
+[2020.11.10-15.37.23:808][975]LogFbx: Parsing AnimStack mixamo.com
+[2020.11.10-15.37.28:031][975]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Blueprints/skins/Big_Jump_Anim_mixamo_com.Big_Jump_Anim_mixamo_com
+[2020.11.10-15.37.28:108][975]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.11.10-15.37.28:921][975]LogFactory: FactoryCreateFile: SkeletalMesh with FbxFactory (0 0 C:\Users\lucca_000\Desktop\boneco unreal\Run.fbx)
+[2020.11.10-15.37.29:047][975]LogFbx: Loading FBX Scene from C:\Users\lucca_000\Desktop\boneco unreal\Run.fbx
+[2020.11.10-15.37.29:405][975]LogFbx: FBX Scene Loaded Succesfully
+[2020.11.10-15.37.29:421][975]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Ganfaul : The relative matrices do not match
+[2020.11.10-15.37.29:421][975]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2020.11.10-15.37.29:423][975]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - Ganfaul
+[2020.11.10-15.37.29:424][975]LogFbx: Warning: Recreating bind pose succeeded.
+[2020.11.10-15.37.29:433][975]LogFbx: Triangulating skeletal mesh Ganfaul
+[2020.11.10-15.37.31:413][975]LogFbx: Warning: Bones digested - 65  Depth of hierarchy - 12
+[2020.11.10-15.37.31:610][975]LogSkeletalMesh: Display: Skeletal ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2020.11.10-15.37.31:971][975]LogSkeletalMesh: Section 0: 8800 vertices, 52 active bones
+[2020.11.10-15.37.31:972][975]LogSkeletalMesh: Section 0: Material=0, 13801 triangles
+[2020.11.10-15.37.32:035][975]LogSkeletalMesh: Building Skeletal Mesh Run...
+[2020.11.10-15.37.32:130][975]LogSkeletalMesh: Display: Skeletal ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2020.11.10-15.37.32:485][975]LogSkeletalMesh: Section 0: 8800 vertices, 52 active bones
+[2020.11.10-15.37.32:487][975]LogSkeletalMesh: Section 0: Material=0, 13801 triangles
+[2020.11.10-15.37.32:527][975]LogSkeletalMesh: Built Skeletal Mesh [0.50s] /Game/ThirdPersonBP/Blueprints/skins/Run.Run
+[2020.11.10-15.37.32:577][975]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.11.10-15.37.32:577][975]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.10-15.37.32:589][975]LogFbx: SortedLinks :(0) Hips
+[2020.11.10-15.37.32:589][975]LogFbx: SortedLinks :(1) Spine
+[2020.11.10-15.37.32:589][975]LogFbx: SortedLinks :(2) Spine1
+[2020.11.10-15.37.32:589][975]LogFbx: SortedLinks :(3) Spine2
+[2020.11.10-15.37.32:589][975]LogFbx: SortedLinks :(4) Neck
+[2020.11.10-15.37.32:589][975]LogFbx: SortedLinks :(5) Head
+[2020.11.10-15.37.32:589][975]LogFbx: SortedLinks :(6) HeadTop_End
+[2020.11.10-15.37.32:589][975]LogFbx: SortedLinks :(7) LeftShoulder
+[2020.11.10-15.37.32:589][975]LogFbx: SortedLinks :(8) LeftArm
+[2020.11.10-15.37.32:590][975]LogFbx: SortedLinks :(9) LeftForeArm
+[2020.11.10-15.37.32:590][975]LogFbx: SortedLinks :(10) LeftHand
+[2020.11.10-15.37.32:590][975]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2020.11.10-15.37.32:590][975]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2020.11.10-15.37.32:590][975]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2020.11.10-15.37.32:590][975]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2020.11.10-15.37.32:590][975]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2020.11.10-15.37.32:590][975]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2020.11.10-15.37.32:590][975]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2020.11.10-15.37.32:590][975]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2020.11.10-15.37.32:590][975]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2020.11.10-15.37.32:590][975]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2020.11.10-15.37.32:590][975]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2020.11.10-15.37.32:590][975]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2020.11.10-15.37.32:590][975]LogFbx: SortedLinks :(23) LeftHandRing1
+[2020.11.10-15.37.32:590][975]LogFbx: SortedLinks :(24) LeftHandRing2
+[2020.11.10-15.37.32:590][975]LogFbx: SortedLinks :(25) LeftHandRing3
+[2020.11.10-15.37.32:590][975]LogFbx: SortedLinks :(26) LeftHandRing4
+[2020.11.10-15.37.32:590][975]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2020.11.10-15.37.32:590][975]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2020.11.10-15.37.32:590][975]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2020.11.10-15.37.32:590][975]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2020.11.10-15.37.32:590][975]LogFbx: SortedLinks :(31) RightShoulder
+[2020.11.10-15.37.32:590][975]LogFbx: SortedLinks :(32) RightArm
+[2020.11.10-15.37.32:590][975]LogFbx: SortedLinks :(33) RightForeArm
+[2020.11.10-15.37.32:590][975]LogFbx: SortedLinks :(34) RightHand
+[2020.11.10-15.37.32:590][975]LogFbx: SortedLinks :(35) RightHandIndex1
+[2020.11.10-15.37.32:590][975]LogFbx: SortedLinks :(36) RightHandIndex2
+[2020.11.10-15.37.32:590][975]LogFbx: SortedLinks :(37) RightHandIndex3
+[2020.11.10-15.37.32:590][975]LogFbx: SortedLinks :(38) RightHandIndex4
+[2020.11.10-15.37.32:590][975]LogFbx: SortedLinks :(39) RightHandMiddle1
+[2020.11.10-15.37.32:590][975]LogFbx: SortedLinks :(40) RightHandMiddle2
+[2020.11.10-15.37.32:590][975]LogFbx: SortedLinks :(41) RightHandMiddle3
+[2020.11.10-15.37.32:590][975]LogFbx: SortedLinks :(42) RightHandMiddle4
+[2020.11.10-15.37.32:590][975]LogFbx: SortedLinks :(43) RightHandRing1
+[2020.11.10-15.37.32:590][975]LogFbx: SortedLinks :(44) RightHandRing2
+[2020.11.10-15.37.32:590][975]LogFbx: SortedLinks :(45) RightHandRing3
+[2020.11.10-15.37.32:590][975]LogFbx: SortedLinks :(46) RightHandRing4
+[2020.11.10-15.37.32:590][975]LogFbx: SortedLinks :(47) RightHandPinky1
+[2020.11.10-15.37.32:590][975]LogFbx: SortedLinks :(48) RightHandPinky2
+[2020.11.10-15.37.32:590][975]LogFbx: SortedLinks :(49) RightHandPinky3
+[2020.11.10-15.37.32:590][975]LogFbx: SortedLinks :(50) RightHandPinky4
+[2020.11.10-15.37.32:590][975]LogFbx: SortedLinks :(51) RightHandThumb1
+[2020.11.10-15.37.32:590][975]LogFbx: SortedLinks :(52) RightHandThumb2
+[2020.11.10-15.37.32:590][975]LogFbx: SortedLinks :(53) RightHandThumb3
+[2020.11.10-15.37.32:590][975]LogFbx: SortedLinks :(54) RightHandThumb4
+[2020.11.10-15.37.32:590][975]LogFbx: SortedLinks :(55) LeftUpLeg
+[2020.11.10-15.37.32:590][975]LogFbx: SortedLinks :(56) LeftLeg
+[2020.11.10-15.37.32:590][975]LogFbx: SortedLinks :(57) LeftFoot
+[2020.11.10-15.37.32:590][975]LogFbx: SortedLinks :(58) LeftToeBase
+[2020.11.10-15.37.32:590][975]LogFbx: SortedLinks :(59) LeftToe_End
+[2020.11.10-15.37.32:590][975]LogFbx: SortedLinks :(60) RightUpLeg
+[2020.11.10-15.37.32:590][975]LogFbx: SortedLinks :(61) RightLeg
+[2020.11.10-15.37.32:590][975]LogFbx: SortedLinks :(62) RightFoot
+[2020.11.10-15.37.32:590][975]LogFbx: SortedLinks :(63) RightToeBase
+[2020.11.10-15.37.32:590][975]LogFbx: SortedLinks :(64) RightToe_End
+[2020.11.10-15.37.32:590][975]LogFbx: SortedLinks :(0) Hips
+[2020.11.10-15.37.32:591][975]LogFbx: SortedLinks :(1) Spine
+[2020.11.10-15.37.32:591][975]LogFbx: SortedLinks :(2) Spine1
+[2020.11.10-15.37.32:591][975]LogFbx: SortedLinks :(3) Spine2
+[2020.11.10-15.37.32:591][975]LogFbx: SortedLinks :(4) Neck
+[2020.11.10-15.37.32:591][975]LogFbx: SortedLinks :(5) Head
+[2020.11.10-15.37.32:591][975]LogFbx: SortedLinks :(6) HeadTop_End
+[2020.11.10-15.37.32:591][975]LogFbx: SortedLinks :(7) LeftShoulder
+[2020.11.10-15.37.32:591][975]LogFbx: SortedLinks :(8) LeftArm
+[2020.11.10-15.37.32:591][975]LogFbx: SortedLinks :(9) LeftForeArm
+[2020.11.10-15.37.32:591][975]LogFbx: SortedLinks :(10) LeftHand
+[2020.11.10-15.37.32:591][975]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2020.11.10-15.37.32:591][975]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2020.11.10-15.37.32:591][975]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2020.11.10-15.37.32:591][975]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2020.11.10-15.37.32:591][975]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2020.11.10-15.37.32:591][975]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2020.11.10-15.37.32:591][975]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2020.11.10-15.37.32:591][975]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2020.11.10-15.37.32:591][975]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2020.11.10-15.37.32:591][975]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2020.11.10-15.37.32:591][975]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2020.11.10-15.37.32:591][975]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2020.11.10-15.37.32:591][975]LogFbx: SortedLinks :(23) LeftHandRing1
+[2020.11.10-15.37.32:591][975]LogFbx: SortedLinks :(24) LeftHandRing2
+[2020.11.10-15.37.32:591][975]LogFbx: SortedLinks :(25) LeftHandRing3
+[2020.11.10-15.37.32:591][975]LogFbx: SortedLinks :(26) LeftHandRing4
+[2020.11.10-15.37.32:591][975]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2020.11.10-15.37.32:591][975]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2020.11.10-15.37.32:591][975]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2020.11.10-15.37.32:591][975]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2020.11.10-15.37.32:591][975]LogFbx: SortedLinks :(31) RightShoulder
+[2020.11.10-15.37.32:591][975]LogFbx: SortedLinks :(32) RightArm
+[2020.11.10-15.37.32:591][975]LogFbx: SortedLinks :(33) RightForeArm
+[2020.11.10-15.37.32:591][975]LogFbx: SortedLinks :(34) RightHand
+[2020.11.10-15.37.32:591][975]LogFbx: SortedLinks :(35) RightHandIndex1
+[2020.11.10-15.37.32:591][975]LogFbx: SortedLinks :(36) RightHandIndex2
+[2020.11.10-15.37.32:591][975]LogFbx: SortedLinks :(37) RightHandIndex3
+[2020.11.10-15.37.32:591][975]LogFbx: SortedLinks :(38) RightHandIndex4
+[2020.11.10-15.37.32:591][975]LogFbx: SortedLinks :(39) RightHandMiddle1
+[2020.11.10-15.37.32:591][975]LogFbx: SortedLinks :(40) RightHandMiddle2
+[2020.11.10-15.37.32:591][975]LogFbx: SortedLinks :(41) RightHandMiddle3
+[2020.11.10-15.37.32:591][975]LogFbx: SortedLinks :(42) RightHandMiddle4
+[2020.11.10-15.37.32:591][975]LogFbx: SortedLinks :(43) RightHandRing1
+[2020.11.10-15.37.32:592][975]LogFbx: SortedLinks :(44) RightHandRing2
+[2020.11.10-15.37.32:592][975]LogFbx: SortedLinks :(45) RightHandRing3
+[2020.11.10-15.37.32:592][975]LogFbx: SortedLinks :(46) RightHandRing4
+[2020.11.10-15.37.32:592][975]LogFbx: SortedLinks :(47) RightHandPinky1
+[2020.11.10-15.37.32:592][975]LogFbx: SortedLinks :(48) RightHandPinky2
+[2020.11.10-15.37.32:592][975]LogFbx: SortedLinks :(49) RightHandPinky3
+[2020.11.10-15.37.32:592][975]LogFbx: SortedLinks :(50) RightHandPinky4
+[2020.11.10-15.37.32:592][975]LogFbx: SortedLinks :(51) RightHandThumb1
+[2020.11.10-15.37.32:592][975]LogFbx: SortedLinks :(52) RightHandThumb2
+[2020.11.10-15.37.32:592][975]LogFbx: SortedLinks :(53) RightHandThumb3
+[2020.11.10-15.37.32:592][975]LogFbx: SortedLinks :(54) RightHandThumb4
+[2020.11.10-15.37.32:592][975]LogFbx: SortedLinks :(55) LeftUpLeg
+[2020.11.10-15.37.32:592][975]LogFbx: SortedLinks :(56) LeftLeg
+[2020.11.10-15.37.32:592][975]LogFbx: SortedLinks :(57) LeftFoot
+[2020.11.10-15.37.32:592][975]LogFbx: SortedLinks :(58) LeftToeBase
+[2020.11.10-15.37.32:592][975]LogFbx: SortedLinks :(59) LeftToe_End
+[2020.11.10-15.37.32:592][975]LogFbx: SortedLinks :(60) RightUpLeg
+[2020.11.10-15.37.32:592][975]LogFbx: SortedLinks :(61) RightLeg
+[2020.11.10-15.37.32:592][975]LogFbx: SortedLinks :(62) RightFoot
+[2020.11.10-15.37.32:592][975]LogFbx: SortedLinks :(63) RightToeBase
+[2020.11.10-15.37.32:592][975]LogFbx: SortedLinks :(64) RightToe_End
+[2020.11.10-15.37.32:593][975]LogFbx: Parsing AnimStack Take 001
+[2020.11.10-15.37.33:043][975]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Blueprints/skins/Run_Anim_Take_001.Run_Anim_Take_001
+[2020.11.10-15.37.33:060][975]LogFbx: Parsing AnimStack mixamo.com
+[2020.11.10-15.37.33:378][975]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Blueprints/skins/Run_Anim_mixamo_com.Run_Anim_mixamo_com
+[2020.11.10-15.37.33:421][975]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.11.10-15.37.37:036][986]LogSlate: Window 'Message Log' being destroyed
+[2020.11.10-15.37.37:043][986]LogSlate: Window 'Message Log' being destroyed
+[2020.11.10-15.37.42:547][499]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/ThirdPersonBP/Blueprints/skins/Run.Run
+[2020.11.10-15.37.43:279][499]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0266 seconds. Added 1 classes and 2 folders.
+[2020.11.10-15.37.44:634][499]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.11.10-15.37.44:727][499]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0167 seconds. Added 1 classes and 0 folders.
+[2020.11.10-15.37.45:936][499]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.11.10-15.37.51:068][499]LogSlate: Took 0.007670 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.11.10-15.37.51:557][499]LogRenderer: Reallocating scene render targets to support 1168x884 Format 10 NumSamples 1 (Frame:1).
+[2020.11.10-15.38.31:976][526]LogSlate: Window 'Run' being destroyed
+[2020.11.10-15.38.32:235][526]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.11.10-15.38.32:235][526]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.10-15.38.39:352][830]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/ThirdPersonBP/Blueprints/skins/Run.Run
+[2020.11.10-15.38.39:363][830]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.11.10-15.38.39:458][830]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.11.10-15.39.31:980][252]LogSlate: Window 'Run' being destroyed
+[2020.11.10-15.39.32:161][252]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2020.11.10-15.39.32:161][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.10-15.39.40:844][356]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2020.11.10-15.39.44:103][356]LogSlate: Window 'Save Content' being destroyed
+[2020.11.10-15.39.44:993][356]LogSavePackage: Moving '../../../../../../Users/lucca_000/Documents/Unreal Projects/Bambu/project/Saved/Big_JumpBBA156FA420CBECC1436C4865879430B.tmp' to '../../../../../../Users/lucca_000/Documents/Unreal Projects/Bambu/project/Content/ThirdPersonBP/Blueprints/skins/Big_Jump.uasset'
+[2020.11.10-15.39.46:387][356]LogSavePackage: Moving '../../../../../../Users/lucca_000/Documents/Unreal Projects/Bambu/project/Saved/Big_Jump_Anim_mixamo_comC620A2854C3C47E3D95B2FB48C6671E5.tmp' to '../../../../../../Users/lucca_000/Documents/Unreal Projects/Bambu/project/Content/ThirdPersonBP/Blueprints/skins/Big_Jump_Anim_mixamo_com.uasset'
+[2020.11.10-15.39.47:365][356]LogSavePackage: Moving '../../../../../../Users/lucca_000/Documents/Unreal Projects/Bambu/project/Saved/Big_Jump_Anim_Take_001BA3E2FA14A00FCCA85FA75A25418C669.tmp' to '../../../../../../Users/lucca_000/Documents/Unreal Projects/Bambu/project/Content/ThirdPersonBP/Blueprints/skins/Big_Jump_Anim_Take_001.uasset'
+[2020.11.10-15.39.48:255][356]LogSavePackage: Moving '../../../../../../Users/lucca_000/Documents/Unreal Projects/Bambu/project/Saved/Big_Jump_PhysicsAssetA9BD15474D80B72E0C244DB13E113B64.tmp' to '../../../../../../Users/lucca_000/Documents/Unreal Projects/Bambu/project/Content/ThirdPersonBP/Blueprints/skins/Big_Jump_PhysicsAsset.uasset'
+[2020.11.10-15.39.49:065][356]LogSavePackage: Moving '../../../../../../Users/lucca_000/Documents/Unreal Projects/Bambu/project/Saved/Ganfaul_Body7D2BE88B4738392290ABE18F508CBAE7.tmp' to '../../../../../../Users/lucca_000/Documents/Unreal Projects/Bambu/project/Content/ThirdPersonBP/Blueprints/skins/Ganfaul_Body.uasset'
+[2020.11.10-15.39.50:309][356]LogSavePackage: Moving '../../../../../../Users/lucca_000/Documents/Unreal Projects/Bambu/project/Saved/Ganfaul_diffuse813AAB1B4451D4A5FD4727B0F8387047.tmp' to '../../../../../../Users/lucca_000/Documents/Unreal Projects/Bambu/project/Content/ThirdPersonBP/Blueprints/skins/Ganfaul_diffuse.uasset'
+[2020.11.10-15.39.52:532][356]LogSavePackage: Moving '../../../../../../Users/lucca_000/Documents/Unreal Projects/Bambu/project/Saved/Ganfaul_glowDDC3EE4D45E4F026348A19BBD9F75166.tmp' to '../../../../../../Users/lucca_000/Documents/Unreal Projects/Bambu/project/Content/ThirdPersonBP/Blueprints/skins/Ganfaul_glow.uasset'
+[2020.11.10-15.39.53:449][356]LogSavePackage: Moving '../../../../../../Users/lucca_000/Documents/Unreal Projects/Bambu/project/Saved/ganfaul_m_aure033E8A43465DDB1908643CAF21292415.tmp' to '../../../../../../Users/lucca_000/Documents/Unreal Projects/Bambu/project/Content/ThirdPersonBP/Blueprints/skins/ganfaul_m_aure.uasset'
+[2020.11.10-15.39.54:481][356]LogSavePackage: Moving '../../../../../../Users/lucca_000/Documents/Unreal Projects/Bambu/project/Saved/ganfaul_m_aure_Anim_mixamo_comD423D5794DA673E6E42542B43F3CE31B.tmp' to '../../../../../../Users/lucca_000/Documents/Unreal Projects/Bambu/project/Content/ThirdPersonBP/Blueprints/skins/ganfaul_m_aure_Anim_mixamo_com.uasset'
+[2020.11.10-15.39.55:411][356]LogSavePackage: Moving '../../../../../../Users/lucca_000/Documents/Unreal Projects/Bambu/project/Saved/ganfaul_m_aure_Anim_Take_001F75D516F4C0DBE182F79F1B3F4ED8777.tmp' to '../../../../../../Users/lucca_000/Documents/Unreal Projects/Bambu/project/Content/ThirdPersonBP/Blueprints/skins/ganfaul_m_aure_Anim_Take_001.uasset'
+[2020.11.10-15.39.56:428][356]LogSavePackage: Moving '../../../../../../Users/lucca_000/Documents/Unreal Projects/Bambu/project/Saved/ganfaul_m_aure_PhysicsAssetE6C6D69C487CC298F46914B67E9F67AE.tmp' to '../../../../../../Users/lucca_000/Documents/Unreal Projects/Bambu/project/Content/ThirdPersonBP/Blueprints/skins/ganfaul_m_aure_PhysicsAsset.uasset'
+[2020.11.10-15.39.57:626][356]LogSavePackage: Moving '../../../../../../Users/lucca_000/Documents/Unreal Projects/Bambu/project/Saved/ganfaul_m_aure_SkeletonEE7EA67F4D4BFB900AED3A8C3B912B3A.tmp' to '../../../../../../Users/lucca_000/Documents/Unreal Projects/Bambu/project/Content/ThirdPersonBP/Blueprints/skins/ganfaul_m_aure_Skeleton.uasset'
+[2020.11.10-15.39.58:970][356]LogSavePackage: Moving '../../../../../../Users/lucca_000/Documents/Unreal Projects/Bambu/project/Saved/Ganfaul_normal636FB5DF436A128FAD7A0BAD22F39A5B.tmp' to '../../../../../../Users/lucca_000/Documents/Unreal Projects/Bambu/project/Content/ThirdPersonBP/Blueprints/skins/Ganfaul_normal.uasset'
+[2020.11.10-15.40.00:854][356]LogSavePackage: Moving '../../../../../../Users/lucca_000/Documents/Unreal Projects/Bambu/project/Saved/Ganfaul_specular155985534A2C5D9BA8101489CA8188F2.tmp' to '../../../../../../Users/lucca_000/Documents/Unreal Projects/Bambu/project/Content/ThirdPersonBP/Blueprints/skins/Ganfaul_specular.uasset'
+[2020.11.10-15.40.02:191][356]LogSavePackage: Moving '../../../../../../Users/lucca_000/Documents/Unreal Projects/Bambu/project/Saved/Run028E76E347784A83D2EE3890A35F8899.tmp' to '../../../../../../Users/lucca_000/Documents/Unreal Projects/Bambu/project/Content/ThirdPersonBP/Blueprints/skins/Run.uasset'
+[2020.11.10-15.40.03:215][356]LogSavePackage: Moving '../../../../../../Users/lucca_000/Documents/Unreal Projects/Bambu/project/Saved/Run_Anim_mixamo_comD6623B47474ABBB770239CBACED0F860.tmp' to '../../../../../../Users/lucca_000/Documents/Unreal Projects/Bambu/project/Content/ThirdPersonBP/Blueprints/skins/Run_Anim_mixamo_com.uasset'
+[2020.11.10-15.40.04:094][356]LogSavePackage: Moving '../../../../../../Users/lucca_000/Documents/Unreal Projects/Bambu/project/Saved/Run_Anim_Take_001E961D40743F27E63CFF26E85C38F70E0.tmp' to '../../../../../../Users/lucca_000/Documents/Unreal Projects/Bambu/project/Content/ThirdPersonBP/Blueprints/skins/Run_Anim_Take_001.uasset'
+[2020.11.10-15.40.05:132][356]LogSavePackage: Moving '../../../../../../Users/lucca_000/Documents/Unreal Projects/Bambu/project/Saved/Run_PhysicsAsset9E80CBC94F24F8D69BDA0F91F448F4EE.tmp' to '../../../../../../Users/lucca_000/Documents/Unreal Projects/Bambu/project/Content/ThirdPersonBP/Blueprints/skins/Run_PhysicsAsset.uasset'
+[2020.11.10-15.40.06:277][356]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.10-15.40.06:277][356]LogContentValidation: Display: Validating SkeletalMesh /Game/ThirdPersonBP/Blueprints/skins/Big_Jump.Big_Jump
+[2020.11.10-15.40.06:277][356]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/skins/Big_Jump_Anim_mixamo_com.Big_Jump_Anim_mixamo_com
+[2020.11.10-15.40.06:277][356]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/skins/Big_Jump_Anim_Take_001.Big_Jump_Anim_Take_001
+[2020.11.10-15.40.06:277][356]LogContentValidation: Display: Validating PhysicsAsset /Game/ThirdPersonBP/Blueprints/skins/Big_Jump_PhysicsAsset.Big_Jump_PhysicsAsset
+[2020.11.10-15.40.06:277][356]LogContentValidation: Display: Validating Material /Game/ThirdPersonBP/Blueprints/skins/Ganfaul_Body.Ganfaul_Body
+[2020.11.10-15.40.06:277][356]LogContentValidation: Display: Validating Texture2D /Game/ThirdPersonBP/Blueprints/skins/Ganfaul_diffuse.Ganfaul_diffuse
+[2020.11.10-15.40.06:277][356]LogContentValidation: Display: Validating Texture2D /Game/ThirdPersonBP/Blueprints/skins/Ganfaul_glow.Ganfaul_glow
+[2020.11.10-15.40.06:277][356]LogContentValidation: Display: Validating SkeletalMesh /Game/ThirdPersonBP/Blueprints/skins/ganfaul_m_aure.ganfaul_m_aure
+[2020.11.10-15.40.06:278][356]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/skins/ganfaul_m_aure_Anim_mixamo_com.ganfaul_m_aure_Anim_mixamo_com
+[2020.11.10-15.40.06:278][356]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/skins/ganfaul_m_aure_Anim_Take_001.ganfaul_m_aure_Anim_Take_001
+[2020.11.10-15.40.06:278][356]LogContentValidation: Display: Validating PhysicsAsset /Game/ThirdPersonBP/Blueprints/skins/ganfaul_m_aure_PhysicsAsset.ganfaul_m_aure_PhysicsAsset
+[2020.11.10-15.40.06:278][356]LogContentValidation: Display: Validating Skeleton /Game/ThirdPersonBP/Blueprints/skins/ganfaul_m_aure_Skeleton.ganfaul_m_aure_Skeleton
+[2020.11.10-15.40.06:278][356]LogContentValidation: Display: Validating Texture2D /Game/ThirdPersonBP/Blueprints/skins/Ganfaul_normal.Ganfaul_normal
+[2020.11.10-15.40.06:278][356]LogContentValidation: Display: Validating Texture2D /Game/ThirdPersonBP/Blueprints/skins/Ganfaul_specular.Ganfaul_specular
+[2020.11.10-15.40.06:278][356]LogContentValidation: Display: Validating SkeletalMesh /Game/ThirdPersonBP/Blueprints/skins/Run.Run
+[2020.11.10-15.40.06:278][356]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/skins/Run_Anim_mixamo_com.Run_Anim_mixamo_com
+[2020.11.10-15.40.06:278][356]LogContentValidation: Display: Validating AnimSequence /Game/ThirdPersonBP/Blueprints/skins/Run_Anim_Take_001.Run_Anim_Take_001
+[2020.11.10-15.40.06:278][356]LogContentValidation: Display: Validating PhysicsAsset /Game/ThirdPersonBP/Blueprints/skins/Run_PhysicsAsset.Run_PhysicsAsset
+[2020.11.10-15.40.41:204][460]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.11.10-15.40.57:229][724]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.11.10-15.41.15:741][640]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/skins/GanfaulPB.GanfaulPB
+[2020.11.10-15.41.17:712][640]LogRenderer: Reallocating scene render targets to support 1252x884 Format 10 NumSamples 1 (Frame:1).
+[2020.11.10-15.44.37:232][269]BlueprintLog: New page: Compile GanfaulPB
+[2020.11.10-15.44.38:287][269]LogUObjectHash: Compacting FUObjectHashTables data took   7.10ms
+[2020.11.10-15.44.40:963][274]LogSavePackage: Moving '../../../../../../Users/lucca_000/Documents/Unreal Projects/Bambu/project/Saved/GanfaulPBC4F808514061B7146472F2A3EFC551D6.tmp' to '../../../../../../Users/lucca_000/Documents/Unreal Projects/Bambu/project/Content/ThirdPersonBP/Blueprints/skins/GanfaulPB.uasset'
+[2020.11.10-15.44.41:995][274]AssetCheck: New page: Asset Save: GanfaulPB
+[2020.11.10-15.44.41:995][274]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/skins/GanfaulPB.GanfaulPB
+[2020.11.10-15.44.56:826][521]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.11.10-15.45.09:919][235]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2020.11.10-15.45.31:515][235]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2020.11.10-15.45.53:479][147]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/ThirdPersonBP/Blueprints/skins/GanfaulanimPB.GanfaulanimPB
+[2020.11.10-15.45.53:662][147]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.11.10-15.45.54:270][147]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.11.10-15.46.03:442][662]LogSlate: Window 'GanfaulanimPB' being destroyed
+[2020.11.10-15.46.03:458][662]LogSlate: Window 'GanfaulanimPB' being destroyed
+[2020.11.10-15.46.03:555][662]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2020.11.10-15.46.03:555][662]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.10-15.46.04:114][662]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2020.11.10-15.46.04:114][662]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.10-15.46.04:121][662]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2020.11.10-15.46.04:121][662]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.10-15.46.04:283][662]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2020.11.10-15.46.04:283][662]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.10-15.46.14:605][360]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2020.11.10-15.46.16:492][360]LogSlate: Window 'Delete Assets' being destroyed
+[2020.11.10-15.46.21:324][360]LogUObjectGlobals: Force Deleting 20 Package(s):
+	Asset Name: /Game/ThirdPersonBP/Blueprints/skins/Run_Anim_mixamo_com.Run_Anim_mixamo_com
+	Asset Name: /Game/ThirdPersonBP/Blueprints/skins/Run_Anim_Take_001.Run_Anim_Take_001
+	Asset Name: /Game/ThirdPersonBP/Blueprints/skins/GanfaulPB.GanfaulPB
+	Asset Name: /Game/ThirdPersonBP/Blueprints/skins/Run_PhysicsAsset.Run_PhysicsAsset
+	Asset Name: /Game/ThirdPersonBP/Blueprints/skins/Run.Run
+	Asset Name: /Game/ThirdPersonBP/Blueprints/skins/Big_Jump_Anim_mixamo_com.Big_Jump_Anim_mixamo_com
+	Asset Name: /Game/ThirdPersonBP/Blueprints/skins/Big_Jump_Anim_Take_001.Big_Jump_Anim_Take_001
+	Asset Name: /Game/ThirdPersonBP/Blueprints/skins/Big_Jump_PhysicsAsset.Big_Jump_PhysicsAsset
+	Asset Name: /Game/ThirdPersonBP/Blueprints/skins/Big_Jump.Big_Jump
+	Asset Name: /Game/ThirdPersonBP/Blueprints/skins/GanfaulanimPB.GanfaulanimPB
+[2020.11.10-15.46.38:795][360]LogMaterial: Display: Missing cached shader map for material Ganfaul_Body, compiling. 
+[2020.11.10-15.46.38:815][360]LogMaterial: Warning: C:\Users\lucca_000\Documents\Unreal Projects\Bambu\project\Content\ThirdPersonBP\Blueprints\skins\Ganfaul_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.10-15.46.38:815][360]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.10-15.46.38:817][360]LogMaterial: Display: Missing cached shader map for material Ganfaul_Body, compiling. 
+[2020.11.10-15.46.38:818][360]LogMaterial: Warning: C:\Users\lucca_000\Documents\Unreal Projects\Bambu\project\Content\ThirdPersonBP\Blueprints\skins\Ganfaul_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.10-15.46.38:839][360]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.10-15.46.38:841][360]LogMaterial: Display: Missing cached shader map for material Ganfaul_Body, compiling. 
+[2020.11.10-15.46.38:841][360]LogMaterial: Warning: C:\Users\lucca_000\Documents\Unreal Projects\Bambu\project\Content\ThirdPersonBP\Blueprints\skins\Ganfaul_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.10-15.46.38:841][360]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.10-15.46.38:843][360]LogMaterial: Display: Missing cached shader map for material Ganfaul_Body, compiling. 
+[2020.11.10-15.46.38:843][360]LogMaterial: Warning: C:\Users\lucca_000\Documents\Unreal Projects\Bambu\project\Content\ThirdPersonBP\Blueprints\skins\Ganfaul_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.10-15.46.38:844][360]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.10-15.46.38:845][360]LogMaterial: Display: Missing cached shader map for material Ganfaul_Body, compiling. 
+[2020.11.10-15.46.38:846][360]LogMaterial: Warning: C:\Users\lucca_000\Documents\Unreal Projects\Bambu\project\Content\ThirdPersonBP\Blueprints\skins\Ganfaul_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.10-15.46.38:846][360]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.10-15.46.38:847][360]LogMaterial: Display: Missing cached shader map for material Ganfaul_Body, compiling. 
+[2020.11.10-15.46.38:848][360]LogMaterial: Warning: C:\Users\lucca_000\Documents\Unreal Projects\Bambu\project\Content\ThirdPersonBP\Blueprints\skins\Ganfaul_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.10-15.46.38:848][360]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.10-15.46.38:849][360]LogMaterial: Display: Missing cached shader map for material Ganfaul_Body, compiling. 
+[2020.11.10-15.46.38:850][360]LogMaterial: Warning: C:\Users\lucca_000\Documents\Unreal Projects\Bambu\project\Content\ThirdPersonBP\Blueprints\skins\Ganfaul_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.10-15.46.38:850][360]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.10-15.46.38:852][360]LogMaterial: Display: Missing cached shader map for material Ganfaul_Body, compiling. 
+[2020.11.10-15.46.38:853][360]LogMaterial: Warning: C:\Users\lucca_000\Documents\Unreal Projects\Bambu\project\Content\ThirdPersonBP\Blueprints\skins\Ganfaul_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.10-15.46.38:853][360]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.10-15.46.39:418][360]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2020.11.10-15.46.41:501][360]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.11.10-15.46.56:281][360]LogStats: FPlatformStackWalk::StackWalkAndDump - 14.708 s
+[2020.11.10-15.46.56:288][360]LogOutputDevice: Error: === Handled ensure: ===
+[2020.11.10-15.46.56:288][360]LogOutputDevice: Error: 
+[2020.11.10-15.46.56:288][360]LogOutputDevice: Error: Ensure condition failed: CurObject != nullptr [File:D:/Build/++UE4+Licensee/Sync/Engine/Source/Editor/UnrealEd/Private/ObjectTools.cpp] [Line: 2829]
+[2020.11.10-15.46.56:289][360]LogOutputDevice: Error: 
+[2020.11.10-15.46.56:289][360]LogOutputDevice: Error: Stack: 
+[2020.11.10-15.46.56:289][360]LogOutputDevice: Error: [Callstack] 0x00007ffafa98cf49 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.11.10-15.46.56:289][360]LogOutputDevice: Error: [Callstack] 0x00007ffafa274eeb UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.11.10-15.46.56:289][360]LogOutputDevice: Error: [Callstack] 0x00007ffaf9a29e39 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.11.10-15.46.56:289][360]LogOutputDevice: Error: [Callstack] 0x00007ffaf9ccd43e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.11.10-15.46.56:289][360]LogOutputDevice: Error: [Callstack] 0x00007ffaf9cc6dc7 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.11.10-15.46.56:289][360]LogOutputDevice: Error: [Callstack] 0x00007ffb3348207e UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.10-15.46.56:289][360]LogOutputDevice: Error: [Callstack] 0x00007ffb3349b27e UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.10-15.46.56:289][360]LogOutputDevice: Error: [Callstack] 0x00007ffb332e2dc8 UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.10-15.46.56:289][360]LogOutputDevice: Error: [Callstack] 0x00007ffb333669cf UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.10-15.46.56:289][360]LogOutputDevice: Error: [Callstack] 0x00007ffb3334f4b2 UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.10-15.46.56:289][360]LogOutputDevice: Error: [Callstack] 0x00007ffb33342392 UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.10-15.46.56:289][360]LogOutputDevice: Error: [Callstack] 0x00007ffb47167f88 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.11.10-15.46.56:289][360]LogOutputDevice: Error: [Callstack] 0x00007ffb47155c87 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.11.10-15.46.56:289][360]LogOutputDevice: Error: [Callstack] 0x00007ffb4716a609 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.11.10-15.46.56:289][360]LogOutputDevice: Error: [Callstack] 0x00007ffb471517d0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.11.10-15.46.56:289][360]LogOutputDevice: Error: [Callstack] 0x00007ffb8ad35c1d USER32.dll!UnknownFunction []
+[2020.11.10-15.46.56:289][360]LogOutputDevice: Error: [Callstack] 0x00007ffb8ad35612 USER32.dll!UnknownFunction []
+[2020.11.10-15.46.56:289][360]LogOutputDevice: Error: [Callstack] 0x00007ffb4716b9c9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.11.10-15.46.56:289][360]LogOutputDevice: Error: [Callstack] 0x00007ffb33370d5d UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.10-15.46.56:289][360]LogOutputDevice: Error: [Callstack] 0x00007ffb3330bdb7 UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.10-15.46.56:289][360]LogOutputDevice: Error: [Callstack] 0x00007ffaf9d5f00e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.11.10-15.46.56:289][360]LogOutputDevice: Error: [Callstack] 0x00007ffafa2694dc UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.11.10-15.46.56:289][360]LogOutputDevice: Error: [Callstack] 0x00007ffaf34ed838 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.11.10-15.46.56:289][360]LogOutputDevice: Error: [Callstack] 0x00007ffaf34f9f94 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.11.10-15.46.56:289][360]LogOutputDevice: Error: [Callstack] 0x00007ffaf34f5722 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.11.10-15.46.56:289][360]LogOutputDevice: Error: [Callstack] 0x00007ffaf3557f72 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.11.10-15.46.56:289][360]LogOutputDevice: Error: [Callstack] 0x00007ffaf34f6847 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.11.10-15.46.56:289][360]LogOutputDevice: Error: [Callstack] 0x00007ffb3348207e UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.10-15.46.56:289][360]LogOutputDevice: Error: [Callstack] 0x00007ffb3349b27e UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.10-15.46.56:289][360]LogOutputDevice: Error: [Callstack] 0x00007ffb332e2dc8 UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.10-15.46.56:289][360]LogOutputDevice: Error: [Callstack] 0x00007ffb333669cf UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.10-15.46.56:289][360]LogOutputDevice: Error: [Callstack] 0x00007ffb3334f4b2 UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.10-15.46.56:289][360]LogOutputDevice: Error: [Callstack] 0x00007ffb33342392 UE4Editor-Slate.dll!UnknownFunction []
+[2020.11.10-15.46.56:289][360]LogOutputDevice: Error: [Callstack] 0x00007ffb47167f88 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.11.10-15.46.56:289][360]LogOutputDevice: Error: [Callstack] 0x00007ffb47155c87 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.11.10-15.46.56:289][360]LogOutputDevice: Error: [Callstack] 0x00007ffb4716a609 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.11.10-15.46.56:289][360]LogOutputDevice: Error: [Callstack] 0x00007ffb471517d0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.11.10-15.46.56:289][360]LogOutputDevice: Error: [Callstack] 0x00007ffb8ad35c1d USER32.dll!UnknownFunction []
+[2020.11.10-15.46.56:289][360]LogOutputDevice: Error: [Callstack] 0x00007ffb8ad35612 USER32.dll!UnknownFunction []
+[2020.11.10-15.46.56:289][360]LogOutputDevice: Error: [Callstack] 0x00007ffb4716bb24 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.11.10-15.46.56:289][360]LogOutputDevice: Error: [Callstack] 0x00007ff61c6568c4 UE4Editor.exe!UnknownFunction []
+[2020.11.10-15.46.56:289][360]LogOutputDevice: Error: [Callstack] 0x00007ff61c66ba7c UE4Editor.exe!UnknownFunction []
+[2020.11.10-15.46.56:289][360]LogOutputDevice: Error: [Callstack] 0x00007ff61c66bb5a UE4Editor.exe!UnknownFunction []
+[2020.11.10-15.46.56:289][360]LogOutputDevice: Error: [Callstack] 0x00007ff61c67e31d UE4Editor.exe!UnknownFunction []
+[2020.11.10-15.46.56:289][360]LogOutputDevice: Error: [Callstack] 0x00007ff61c68145a UE4Editor.exe!UnknownFunction []
+[2020.11.10-15.46.56:289][360]LogOutputDevice: Error: [Callstack] 0x00007ffb8b047c24 KERNEL32.DLL!UnknownFunction []
+[2020.11.10-15.46.56:289][360]LogOutputDevice: Error: [Callstack] 0x00007ffb8b2acea1 ntdll.dll!UnknownFunction []
+[2020.11.10-15.46.56:289][360]LogOutputDevice: Error: 
+[2020.11.10-15.46.56:504][360]LogStats:                SubmitErrorReport -  0.000 s
